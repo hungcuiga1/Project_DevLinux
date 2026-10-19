@@ -1,0 +1,61 @@
+==2991469== Helgrind, a thread error detector
+==2991469== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==2991469== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==2991469== Command: ./server 1234 8080
+==2991469== 
+==2991469== ---Thread-Announcement------------------------------------------
+==2991469== 
+==2991469== Thread #1 is the program's root thread
+==2991469== 
+==2991469== ---Thread-Announcement------------------------------------------
+==2991469== 
+==2991469== Thread #2 was created
+==2991469==    at 0x4ACE342: clone (clone.S:71)
+==2991469==    by 0x49932EB: create_thread (createthread.c:101)
+==2991469==    by 0x4994E0F: pthread_create@@GLIBC_2.2.5 (pthread_create.c:817)
+==2991469==    by 0x4842917: ??? (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_helgrind-amd64-linux.so)
+==2991469==    by 0x10AC76: main (main.c:84)
+==2991469== 
+==2991469== ----------------------------------------------------------------
+==2991469== 
+==2991469== Possible data race during write of size 4 at 0x116F50 by thread #1
+==2991469== Locks held: none
+==2991469==    at 0x10A974: on_signal (main.c:28)
+==2991469==    by 0x49A041F: ??? (in /usr/lib/x86_64-linux-gnu/libpthread-2.31.so)
+==2991469==    by 0x4A8C23E: clock_nanosleep@@GLIBC_2.17 (clock_nanosleep.c:78)
+==2991469==    by 0x4A91EC6: nanosleep (nanosleep.c:27)
+==2991469==    by 0x4A91DFD: sleep (sleep.c:55)
+==2991469==    by 0x10ACC2: main (main.c:92)
+==2991469== 
+==2991469== This conflicts with a previous read of size 4 by thread #2
+==2991469== Locks held: none
+==2991469==    at 0x10BFA9: connmgr_thread (connmgr.c:149)
+==2991469==    by 0x4842B1A: ??? (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_helgrind-amd64-linux.so)
+==2991469==    by 0x4994608: start_thread (pthread_create.c:477)
+==2991469==    by 0x4ACE352: clone (clone.S:95)
+==2991469==  Address 0x116f50 is 24272 bytes inside data symbol "g_gw"
+==2991469== 
+==2991469== ----------------------------------------------------------------
+==2991469== 
+==2991469== Possible data race during read of size 4 at 0x116F50 by thread #2
+==2991469== Locks held: none
+==2991469==    at 0x10BFA9: connmgr_thread (connmgr.c:149)
+==2991469==    by 0x4842B1A: ??? (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_helgrind-amd64-linux.so)
+==2991469==    by 0x4994608: start_thread (pthread_create.c:477)
+==2991469==    by 0x4ACE352: clone (clone.S:95)
+==2991469== 
+==2991469== This conflicts with a previous write of size 4 by thread #1
+==2991469== Locks held: none
+==2991469==    at 0x10A974: on_signal (main.c:28)
+==2991469==    by 0x49A041F: ??? (in /usr/lib/x86_64-linux-gnu/libpthread-2.31.so)
+==2991469==    by 0x4A8C23E: clock_nanosleep@@GLIBC_2.17 (clock_nanosleep.c:78)
+==2991469==    by 0x4A91EC6: nanosleep (nanosleep.c:27)
+==2991469==    by 0x4A91DFD: sleep (sleep.c:55)
+==2991469==    by 0x10ACC2: main (main.c:92)
+==2991469==  Address 0x116f50 is 24272 bytes inside data symbol "g_gw"
+==2991469== 
+==2991476== 
+==2991476== Use --history-level=approx or =none to gain increased speed, at
+==2991476== the cost of reduced accuracy of conflicting-access information
+==2991476== For lists of detected and suppressed errors, rerun with: -s
+==2991476== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

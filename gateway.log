@@ -1,0 +1,1562 @@
+1 2026-10-19 22:25:42 MAIN Gateway started (TCP base port 1234, HTTP port 8080)
+2 2026-10-19 22:25:42 CONN Connection manager started
+3 2026-10-19 22:25:42 DATA Data manager started
+4 2026-10-19 22:25:42 STOR Storage manager started
+5 2026-10-19 22:25:42 STOR Connection to SQL server established.
+6 2026-10-19 22:25:55 CONN A sensor node with 10 has opened a new connection
+7 2026-10-19 22:25:55 CONN A sensor node with 30 has opened a new connection
+8 2026-10-19 22:25:55 CONN A sensor node with 21 has opened a new connection
+9 2026-10-19 22:25:55 CONN A sensor node with 50 has opened a new connection
+10 2026-10-19 22:25:55 CONN A sensor node with 40 has opened a new connection
+11 2026-10-19 22:25:55 DATA The sensor node with 30 detected motion
+12 2026-10-19 22:25:55 DATA The sensor node with 40 reports the door is closed
+13 2026-10-19 22:25:56 CONN A sensor node with 99 has opened a new connection
+14 2026-10-19 22:25:56 DATA Received sensor data with invalid sensor node ID 99
+15 2026-10-19 22:25:56 CONN Received malformed frame on SGP port (bad length)
+16 2026-10-19 22:25:57 DATA The sensor node with 40 reports the door is open
+17 2026-10-19 22:25:57 DATA Received sensor data with invalid sensor node ID 99
+18 2026-10-19 22:25:58 DATA The sensor node with 30 detected motion
+19 2026-10-19 22:25:58 DATA The sensor node with 40 reports the door is closed
+20 2026-10-19 22:25:58 DATA Received sensor data with invalid sensor node ID 99
+21 2026-10-19 22:25:59 DATA The sensor node with 40 reports the door is open
+22 2026-10-19 22:25:59 DATA Received sensor data with invalid sensor node ID 99
+23 2026-10-19 22:26:00 DATA Received sensor data with invalid sensor node ID 99
+24 2026-10-19 22:26:00 DATA The sensor node with 40 reports the door is closed
+25 2026-10-19 22:26:00 DATA The sensor node with 30 detected motion
+26 2026-10-19 22:26:01 DATA Received sensor data with invalid sensor node ID 99
+27 2026-10-19 22:26:02 DATA Received sensor data with invalid sensor node ID 99
+28 2026-10-19 22:26:03 DATA Received sensor data with invalid sensor node ID 99
+29 2026-10-19 22:26:03 DATA The sensor node with 30 detected motion
+30 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+31 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+32 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+33 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+34 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+35 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+36 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+37 2026-10-19 22:26:03 CONN Received malformed frame on EVP port (bad length)
+38 2026-10-19 22:26:04 DATA Received sensor data with invalid sensor node ID 99
+39 2026-10-19 22:26:04 CONN Received malformed frame on SGP port (bad length)
+40 2026-10-19 22:26:04 DATA The sensor node with 30 detected motion
+41 2026-10-19 22:26:04 CONN Received malformed frame on EVP port (bad length)
+42 2026-10-19 22:26:05 DATA Received sensor data with invalid sensor node ID 99
+43 2026-10-19 22:26:06 DATA Received sensor data with invalid sensor node ID 99
+44 2026-10-19 22:26:06 CONN Received malformed frame on SGP port (bad length)
+45 2026-10-19 22:26:06 DATA The sensor node with 40 reports the door is open
+46 2026-10-19 22:26:07 DATA Received sensor data with invalid sensor node ID 99
+47 2026-10-19 22:26:07 DATA The sensor node with 30 detected motion
+48 2026-10-19 22:26:08 DATA Received sensor data with invalid sensor node ID 99
+49 2026-10-19 22:26:08 DATA The sensor node with 40 reports the door is closed
+50 2026-10-19 22:26:09 DATA Received sensor data with invalid sensor node ID 99
+51 2026-10-19 22:26:09 DATA The sensor node with 30 detected motion
+52 2026-10-19 22:26:10 DATA Received sensor data with invalid sensor node ID 99
+53 2026-10-19 22:26:10 DATA The sensor node with 30 detected motion
+54 2026-10-19 22:26:10 DATA The sensor node with 40 reports the door is open
+55 2026-10-19 22:26:11 DATA Received sensor data with invalid sensor node ID 99
+56 2026-10-19 22:26:12 DATA Received sensor data with invalid sensor node ID 99
+57 2026-10-19 22:26:12 DATA The sensor node with 40 reports the door is closed
+58 2026-10-19 22:26:12 DATA The sensor node with 30 detected motion
+59 2026-10-19 22:26:13 DATA Received sensor data with invalid sensor node ID 99
+60 2026-10-19 22:26:14 DATA Received sensor data with invalid sensor node ID 99
+61 2026-10-19 22:26:14 DATA The sensor node with 40 reports the door is open
+62 2026-10-19 22:26:15 DATA Received sensor data with invalid sensor node ID 99
+63 2026-10-19 22:26:15 CONN Received malformed frame on SGP port (bad length)
+64 2026-10-19 22:26:15 DATA The sensor node with 30 detected motion
+65 2026-10-19 22:26:16 DATA Received sensor data with invalid sensor node ID 99
+66 2026-10-19 22:26:16 DATA The sensor node with 40 reports the door is closed
+67 2026-10-19 22:26:17 DATA Received sensor data with invalid sensor node ID 99
+68 2026-10-19 22:26:17 DATA The sensor node with 30 detected motion
+69 2026-10-19 22:26:17 DATA The sensor node with 40 reports the door is open
+70 2026-10-19 22:26:18 DATA Received sensor data with invalid sensor node ID 99
+71 2026-10-19 22:26:18 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 313 ppm)
+72 2026-10-19 22:26:19 DATA The sensor node with 40 reports the door is closed
+73 2026-10-19 22:26:19 DATA Received sensor data with invalid sensor node ID 99
+74 2026-10-19 22:26:20 DATA The sensor node with 30 detected motion
+75 2026-10-19 22:26:20 DATA Received sensor data with invalid sensor node ID 99
+76 2026-10-19 22:26:20 DATA The sensor node with 40 reports the door is open
+77 2026-10-19 22:26:20 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 325 ppm)
+78 2026-10-19 22:26:21 DATA Received sensor data with invalid sensor node ID 99
+79 2026-10-19 22:26:22 DATA The sensor node with 40 reports the door is closed
+80 2026-10-19 22:26:22 DATA Received sensor data with invalid sensor node ID 99
+81 2026-10-19 22:26:22 CONN Received malformed frame on SGP port (bad CRC)
+82 2026-10-19 22:26:23 DATA The sensor node with 30 detected motion
+83 2026-10-19 22:26:23 DATA Received sensor data with invalid sensor node ID 99
+84 2026-10-19 22:26:24 DATA The sensor node with 40 reports the door is open
+85 2026-10-19 22:26:24 DATA Received sensor data with invalid sensor node ID 99
+86 2026-10-19 22:26:25 DATA The sensor node with 30 detected motion
+87 2026-10-19 22:26:25 DATA Received sensor data with invalid sensor node ID 99
+88 2026-10-19 22:26:26 DATA Received sensor data with invalid sensor node ID 99
+89 2026-10-19 22:26:26 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.1)
+90 2026-10-19 22:26:26 DATA The sensor node with 40 reports the door is closed
+91 2026-10-19 22:26:26 CONN Received malformed frame on SGP port (bad CRC)
+92 2026-10-19 22:26:27 DATA Received sensor data with invalid sensor node ID 99
+93 2026-10-19 22:26:27 CONN Received malformed frame on SGP port (bad CRC)
+94 2026-10-19 22:26:28 DATA The sensor node with 30 detected motion
+95 2026-10-19 22:26:28 DATA Received sensor data with invalid sensor node ID 99
+96 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+97 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+98 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+99 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+100 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+101 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+102 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+103 2026-10-19 22:26:28 CONN Received malformed frame on EVP port (bad length)
+104 2026-10-19 22:26:28 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 303 ppm)
+105 2026-10-19 22:26:29 DATA Received sensor data with invalid sensor node ID 99
+106 2026-10-19 22:26:29 DATA The sensor node with 30 detected motion
+107 2026-10-19 22:26:29 CONN Received malformed frame on EVP port (bad length)
+108 2026-10-19 22:26:30 DATA Received sensor data with invalid sensor node ID 99
+109 2026-10-19 22:26:31 DATA Received sensor data with invalid sensor node ID 99
+110 2026-10-19 22:26:31 DATA The sensor node with 40 reports the door is open
+111 2026-10-19 22:26:32 DATA The sensor node with 30 detected motion
+112 2026-10-19 22:26:32 DATA Received sensor data with invalid sensor node ID 99
+113 2026-10-19 22:26:33 DATA Received sensor data with invalid sensor node ID 99
+114 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+115 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+116 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+117 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+118 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+119 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+120 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+121 2026-10-19 22:26:34 CONN Received malformed frame on EVP port (bad length)
+122 2026-10-19 22:26:34 DATA Received sensor data with invalid sensor node ID 99
+123 2026-10-19 22:26:34 DATA The sensor node with 30 detected motion
+124 2026-10-19 22:26:35 CONN Received malformed frame on EVP port (bad length)
+125 2026-10-19 22:26:35 DATA Received sensor data with invalid sensor node ID 99
+126 2026-10-19 22:26:36 DATA Received sensor data with invalid sensor node ID 99
+127 2026-10-19 22:26:37 DATA Received sensor data with invalid sensor node ID 99
+128 2026-10-19 22:26:37 DATA The sensor node with 30 detected motion
+129 2026-10-19 22:26:37 DATA The sensor node with 40 reports the door is closed
+130 2026-10-19 22:26:38 DATA Received sensor data with invalid sensor node ID 99
+131 2026-10-19 22:26:38 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 327 ppm)
+132 2026-10-19 22:26:39 DATA The sensor node with 40 reports the door is open
+133 2026-10-19 22:26:39 DATA The sensor node with 30 detected motion
+134 2026-10-19 22:26:39 DATA Received sensor data with invalid sensor node ID 99
+135 2026-10-19 22:26:39 CONN Received malformed frame on SGP port (bad CRC)
+136 2026-10-19 22:26:40 DATA The sensor node with 40 reports the door is closed
+137 2026-10-19 22:26:40 DATA Received sensor data with invalid sensor node ID 99
+138 2026-10-19 22:26:41 DATA Received sensor data with invalid sensor node ID 99
+139 2026-10-19 22:26:41 DATA The sensor node with 30 detected motion
+140 2026-10-19 22:26:42 DATA Received sensor data with invalid sensor node ID 99
+141 2026-10-19 22:26:42 DATA The sensor node with 40 reports the door is open
+142 2026-10-19 22:26:43 DATA Received sensor data with invalid sensor node ID 99
+143 2026-10-19 22:26:43 DATA The sensor node with 30 detected motion
+144 2026-10-19 22:26:44 DATA Received sensor data with invalid sensor node ID 99
+145 2026-10-19 22:26:45 DATA Received sensor data with invalid sensor node ID 99
+146 2026-10-19 22:26:45 DATA The sensor node with 40 reports the door is closed
+147 2026-10-19 22:26:45 DATA The sensor node with 30 detected motion
+148 2026-10-19 22:26:46 DATA Received sensor data with invalid sensor node ID 99
+149 2026-10-19 22:26:47 DATA The sensor node with 40 reports the door is open
+150 2026-10-19 22:26:47 DATA Received sensor data with invalid sensor node ID 99
+151 2026-10-19 22:26:48 DATA The sensor node with 30 detected motion
+152 2026-10-19 22:26:48 DATA Received sensor data with invalid sensor node ID 99
+153 2026-10-19 22:26:49 DATA Received sensor data with invalid sensor node ID 99
+154 2026-10-19 22:26:49 CONN Received malformed frame on SGP port (bad length)
+155 2026-10-19 22:26:50 DATA The sensor node with 30 detected motion
+156 2026-10-19 22:26:50 DATA The sensor node with 40 reports the door is closed
+157 2026-10-19 22:26:50 DATA Received sensor data with invalid sensor node ID 99
+158 2026-10-19 22:26:51 DATA Received sensor data with invalid sensor node ID 99
+159 2026-10-19 22:26:52 DATA The sensor node with 40 reports the door is open
+160 2026-10-19 22:26:52 DATA Received sensor data with invalid sensor node ID 99
+161 2026-10-19 22:26:52 DATA The sensor node with 30 detected motion
+162 2026-10-19 22:26:52 CONN Received malformed frame on SGP port (bad length)
+163 2026-10-19 22:26:53 DATA Received sensor data with invalid sensor node ID 99
+164 2026-10-19 22:26:53 CONN Received malformed frame on SGP port (bad length)
+165 2026-10-19 22:26:54 DATA The sensor node with 30 detected motion
+166 2026-10-19 22:26:54 DATA Received sensor data with invalid sensor node ID 99
+167 2026-10-19 22:26:55 DATA The sensor node with 40 reports the door is closed
+168 2026-10-19 22:26:55 DATA Received sensor data with invalid sensor node ID 99
+169 2026-10-19 22:26:56 DATA Received sensor data with invalid sensor node ID 99
+170 2026-10-19 22:26:56 DATA The sensor node with 30 detected motion
+171 2026-10-19 22:26:57 DATA The sensor node with 40 reports the door is open
+172 2026-10-19 22:26:57 DATA Received sensor data with invalid sensor node ID 99
+173 2026-10-19 22:26:58 DATA Received sensor data with invalid sensor node ID 99
+174 2026-10-19 22:26:58 DATA The sensor node with 30 detected motion
+175 2026-10-19 22:26:59 DATA Received sensor data with invalid sensor node ID 99
+176 2026-10-19 22:26:59 CONN Received malformed frame on SGP port (bad length)
+177 2026-10-19 22:27:00 DATA The sensor node with 40 reports the door is closed
+178 2026-10-19 22:27:00 DATA Received sensor data with invalid sensor node ID 99
+179 2026-10-19 22:27:01 DATA Received sensor data with invalid sensor node ID 99
+180 2026-10-19 22:27:01 DATA The sensor node with 30 detected motion
+181 2026-10-19 22:27:02 DATA Received sensor data with invalid sensor node ID 99
+182 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+183 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+184 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+185 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+186 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+187 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+188 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+189 2026-10-19 22:27:03 CONN Received malformed frame on EVP port (bad length)
+190 2026-10-19 22:27:03 DATA Received sensor data with invalid sensor node ID 99
+191 2026-10-19 22:27:03 DATA The sensor node with 30 detected motion
+192 2026-10-19 22:27:03 CONN Received malformed frame on SGP port (bad length)
+193 2026-10-19 22:27:04 CONN Received malformed frame on EVP port (bad length)
+194 2026-10-19 22:27:04 DATA Received sensor data with invalid sensor node ID 99
+195 2026-10-19 22:27:05 DATA The sensor node with 40 reports the door is open
+196 2026-10-19 22:27:05 DATA Received sensor data with invalid sensor node ID 99
+197 2026-10-19 22:27:06 DATA The sensor node with 30 detected motion
+198 2026-10-19 22:27:06 DATA Received sensor data with invalid sensor node ID 99
+199 2026-10-19 22:27:07 DATA Received sensor data with invalid sensor node ID 99
+200 2026-10-19 22:27:07 DATA The sensor node with 30 detected motion
+201 2026-10-19 22:27:08 DATA The sensor node with 40 reports the door is closed
+202 2026-10-19 22:27:08 DATA Received sensor data with invalid sensor node ID 99
+203 2026-10-19 22:27:09 DATA The sensor node with 40 reports the door is open
+204 2026-10-19 22:27:09 DATA Received sensor data with invalid sensor node ID 99
+205 2026-10-19 22:27:09 DATA The sensor node with 30 detected motion
+206 2026-10-19 22:27:09 CONN Received malformed frame on SGP port (bad CRC)
+207 2026-10-19 22:27:10 DATA Received sensor data with invalid sensor node ID 99
+208 2026-10-19 22:27:10 CONN Received malformed frame on SGP port (bad CRC)
+209 2026-10-19 22:27:11 DATA Received sensor data with invalid sensor node ID 99
+210 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+211 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+212 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+213 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+214 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+215 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+216 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+217 2026-10-19 22:27:11 CONN Received malformed frame on EVP port (bad length)
+218 2026-10-19 22:27:12 DATA The sensor node with 30 detected motion
+219 2026-10-19 22:27:12 DATA Received sensor data with invalid sensor node ID 99
+220 2026-10-19 22:27:13 DATA Received sensor data with invalid sensor node ID 99
+221 2026-10-19 22:27:13 DATA The sensor node with 30 detected motion
+222 2026-10-19 22:27:13 CONN Received malformed frame on SGP port (bad length)
+223 2026-10-19 22:27:14 CONN Received malformed frame on EVP port (bad length)
+224 2026-10-19 22:27:14 DATA Received sensor data with invalid sensor node ID 99
+225 2026-10-19 22:27:14 CONN Received malformed frame on SGP port (bad length)
+226 2026-10-19 22:27:15 DATA Received sensor data with invalid sensor node ID 99
+227 2026-10-19 22:27:15 DATA The sensor node with 40 reports the door is closed
+228 2026-10-19 22:27:15 DATA The sensor node with 30 detected motion
+229 2026-10-19 22:27:16 DATA Received sensor data with invalid sensor node ID 99
+230 2026-10-19 22:27:17 DATA Received sensor data with invalid sensor node ID 99
+231 2026-10-19 22:27:18 DATA Received sensor data with invalid sensor node ID 99
+232 2026-10-19 22:27:18 DATA The sensor node with 30 detected motion
+233 2026-10-19 22:27:18 DATA The sensor node with 40 reports the door is open
+234 2026-10-19 22:27:19 DATA Received sensor data with invalid sensor node ID 99
+235 2026-10-19 22:27:20 DATA The sensor node with 30 detected motion
+236 2026-10-19 22:27:20 DATA Received sensor data with invalid sensor node ID 99
+237 2026-10-19 22:27:21 DATA Received sensor data with invalid sensor node ID 99
+238 2026-10-19 22:27:21 DATA The sensor node with 40 reports the door is closed
+239 2026-10-19 22:27:22 DATA Received sensor data with invalid sensor node ID 99
+240 2026-10-19 22:27:22 CONN Received malformed frame on SGP port (bad length)
+241 2026-10-19 22:27:22 DATA The sensor node with 30 detected motion
+242 2026-10-19 22:27:23 DATA Received sensor data with invalid sensor node ID 99
+243 2026-10-19 22:27:24 DATA Received sensor data with invalid sensor node ID 99
+244 2026-10-19 22:27:24 DATA The sensor node with 40 reports the door is open
+245 2026-10-19 22:27:25 DATA The sensor node with 30 detected motion
+246 2026-10-19 22:27:25 DATA Received sensor data with invalid sensor node ID 99
+247 2026-10-19 22:27:25 CONN Received malformed frame on SGP port (bad length)
+248 2026-10-19 22:27:26 DATA Received sensor data with invalid sensor node ID 99
+249 2026-10-19 22:27:26 DATA The sensor node with 30 detected motion
+250 2026-10-19 22:27:26 DATA The sensor node with 40 reports the door is closed
+251 2026-10-19 22:27:27 DATA Received sensor data with invalid sensor node ID 99
+252 2026-10-19 22:27:28 DATA Received sensor data with invalid sensor node ID 99
+253 2026-10-19 22:27:28 DATA The sensor node with 40 reports the door is open
+254 2026-10-19 22:27:29 DATA The sensor node with 30 detected motion
+255 2026-10-19 22:27:29 DATA Received sensor data with invalid sensor node ID 99
+256 2026-10-19 22:27:30 DATA Received sensor data with invalid sensor node ID 99
+257 2026-10-19 22:27:30 DATA The sensor node with 30 detected motion
+258 2026-10-19 22:27:30 CONN Received malformed frame on SGP port (bad length)
+259 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+260 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+261 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+262 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+263 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+264 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+265 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+266 2026-10-19 22:27:31 CONN Received malformed frame on EVP port (bad length)
+267 2026-10-19 22:27:31 DATA Received sensor data with invalid sensor node ID 99
+268 2026-10-19 22:27:31 CONN Received malformed frame on SGP port (bad length)
+269 2026-10-19 22:27:32 CONN Received malformed frame on EVP port (bad length)
+270 2026-10-19 22:27:32 DATA Received sensor data with invalid sensor node ID 99
+271 2026-10-19 22:27:33 DATA The sensor node with 30 detected motion
+272 2026-10-19 22:27:33 DATA Received sensor data with invalid sensor node ID 99
+273 2026-10-19 22:27:34 DATA Received sensor data with invalid sensor node ID 99
+274 2026-10-19 22:27:34 DATA The sensor node with 30 detected motion
+275 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+276 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+277 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+278 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+279 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+280 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+281 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+282 2026-10-19 22:27:35 CONN Received malformed frame on EVP port (bad length)
+283 2026-10-19 22:27:35 DATA Received sensor data with invalid sensor node ID 99
+284 2026-10-19 22:27:36 DATA The sensor node with 30 detected motion
+285 2026-10-19 22:27:36 DATA Received sensor data with invalid sensor node ID 99
+286 2026-10-19 22:27:36 CONN Received malformed frame on SGP port (bad CRC)
+287 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+288 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+289 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+290 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+291 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+292 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+293 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+294 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+295 2026-10-19 22:27:36 CONN Received malformed frame on EVP port (bad length)
+296 2026-10-19 22:27:37 DATA Received sensor data with invalid sensor node ID 99
+297 2026-10-19 22:27:37 DATA The sensor node with 30 detected motion
+298 2026-10-19 22:27:38 DATA Received sensor data with invalid sensor node ID 99
+299 2026-10-19 22:27:38 CONN Received malformed frame on EVP port (bad length)
+300 2026-10-19 22:27:38 DATA The sensor node with 40 reports the door is closed
+301 2026-10-19 22:27:39 DATA Received sensor data with invalid sensor node ID 99
+302 2026-10-19 22:27:40 DATA The sensor node with 40 reports the door is open
+303 2026-10-19 22:27:40 DATA Received sensor data with invalid sensor node ID 99
+304 2026-10-19 22:27:40 DATA The sensor node with 30 detected motion
+305 2026-10-19 22:27:41 DATA Received sensor data with invalid sensor node ID 99
+306 2026-10-19 22:27:42 DATA The sensor node with 40 reports the door is closed
+307 2026-10-19 22:27:42 DATA Received sensor data with invalid sensor node ID 99
+308 2026-10-19 22:27:42 CONN Received malformed frame on SGP port (bad length)
+309 2026-10-19 22:27:42 DATA The sensor node with 30 detected motion
+310 2026-10-19 22:27:43 DATA Received sensor data with invalid sensor node ID 99
+311 2026-10-19 22:27:43 DATA The sensor node with 40 reports the door is open
+312 2026-10-19 22:27:43 CONN Received malformed frame on SGP port (bad CRC)
+313 2026-10-19 22:27:44 DATA Received sensor data with invalid sensor node ID 99
+314 2026-10-19 22:27:44 DATA The sensor node with 30 detected motion
+315 2026-10-19 22:27:44 CONN Received malformed frame on SGP port (bad length)
+316 2026-10-19 22:27:45 DATA Received sensor data with invalid sensor node ID 99
+317 2026-10-19 22:27:46 DATA The sensor node with 30 detected motion
+318 2026-10-19 22:27:46 DATA Received sensor data with invalid sensor node ID 99
+319 2026-10-19 22:27:46 DATA The sensor node with 40 reports the door is closed
+320 2026-10-19 22:27:47 DATA Received sensor data with invalid sensor node ID 99
+321 2026-10-19 22:27:47 DATA The sensor node with 30 detected motion
+322 2026-10-19 22:27:48 DATA Received sensor data with invalid sensor node ID 99
+323 2026-10-19 22:27:49 DATA Received sensor data with invalid sensor node ID 99
+324 2026-10-19 22:27:49 DATA The sensor node with 40 reports the door is open
+325 2026-10-19 22:27:49 CONN Received malformed frame on SGP port (bad CRC)
+326 2026-10-19 22:27:50 DATA The sensor node with 30 detected motion
+327 2026-10-19 22:27:50 DATA Received sensor data with invalid sensor node ID 99
+328 2026-10-19 22:27:50 DATA The sensor node with 40 reports the door is closed
+329 2026-10-19 22:27:51 DATA Received sensor data with invalid sensor node ID 99
+330 2026-10-19 22:27:51 CONN Received malformed frame on SGP port (bad length)
+331 2026-10-19 22:27:52 DATA The sensor node with 30 detected motion
+332 2026-10-19 22:27:52 DATA Received sensor data with invalid sensor node ID 99
+333 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+334 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+335 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+336 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+337 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+338 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+339 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+340 2026-10-19 22:27:52 CONN Received malformed frame on EVP port (bad length)
+341 2026-10-19 22:27:53 DATA Received sensor data with invalid sensor node ID 99
+342 2026-10-19 22:27:54 CONN Received malformed frame on EVP port (bad length)
+343 2026-10-19 22:27:54 DATA Received sensor data with invalid sensor node ID 99
+344 2026-10-19 22:27:54 DATA The sensor node with 10 reports it's too cold (running avg temperature = 14.9)
+345 2026-10-19 22:27:54 CONN Received malformed frame on SGP port (bad length)
+346 2026-10-19 22:27:54 DATA The sensor node with 30 detected motion
+347 2026-10-19 22:27:55 DATA Received sensor data with invalid sensor node ID 99
+348 2026-10-19 22:27:55 CONN Received malformed frame on SGP port (bad CRC)
+349 2026-10-19 22:27:56 DATA Received sensor data with invalid sensor node ID 99
+350 2026-10-19 22:27:56 DATA The sensor node with 30 detected motion
+351 2026-10-19 22:27:56 CONN Received malformed frame on SGP port (bad CRC)
+352 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+353 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+354 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+355 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+356 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+357 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+358 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+359 2026-10-19 22:27:57 CONN Received malformed frame on EVP port (bad length)
+360 2026-10-19 22:27:57 DATA Received sensor data with invalid sensor node ID 99
+361 2026-10-19 22:27:58 DATA Received sensor data with invalid sensor node ID 99
+362 2026-10-19 22:27:59 DATA Received sensor data with invalid sensor node ID 99
+363 2026-10-19 22:27:59 DATA The sensor node with 30 detected motion
+364 2026-10-19 22:28:00 CONN Received malformed frame on EVP port (bad length)
+365 2026-10-19 22:28:00 DATA Received sensor data with invalid sensor node ID 99
+366 2026-10-19 22:28:01 DATA The sensor node with 40 reports the door is open
+367 2026-10-19 22:28:01 DATA The sensor node with 30 detected motion
+368 2026-10-19 22:28:01 DATA Received sensor data with invalid sensor node ID 99
+369 2026-10-19 22:28:02 DATA Received sensor data with invalid sensor node ID 99
+370 2026-10-19 22:28:02 CONN Received malformed frame on SGP port (bad CRC)
+371 2026-10-19 22:28:02 DATA The sensor node with 30 detected motion
+372 2026-10-19 22:28:03 DATA The sensor node with 40 reports the door is closed
+373 2026-10-19 22:28:03 DATA Received sensor data with invalid sensor node ID 99
+374 2026-10-19 22:28:04 DATA The sensor node with 30 detected motion
+375 2026-10-19 22:28:04 DATA The sensor node with 40 reports the door is open
+376 2026-10-19 22:28:04 DATA Received sensor data with invalid sensor node ID 99
+377 2026-10-19 22:28:05 DATA Received sensor data with invalid sensor node ID 99
+378 2026-10-19 22:28:05 CONN Received malformed frame on SGP port (bad length)
+379 2026-10-19 22:28:06 DATA The sensor node with 30 detected motion
+380 2026-10-19 22:28:06 DATA The sensor node with 40 reports the door is closed
+381 2026-10-19 22:28:06 DATA Received sensor data with invalid sensor node ID 99
+382 2026-10-19 22:28:07 DATA Received sensor data with invalid sensor node ID 99
+383 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+384 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+385 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+386 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+387 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+388 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+389 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+390 2026-10-19 22:28:07 CONN Received malformed frame on EVP port (bad length)
+391 2026-10-19 22:28:08 DATA Received sensor data with invalid sensor node ID 99
+392 2026-10-19 22:28:08 CONN Received malformed frame on EVP port (bad length)
+393 2026-10-19 22:28:08 DATA The sensor node with 30 detected motion
+394 2026-10-19 22:28:09 DATA Received sensor data with invalid sensor node ID 99
+395 2026-10-19 22:28:10 DATA Received sensor data with invalid sensor node ID 99
+396 2026-10-19 22:28:10 DATA The sensor node with 40 reports the door is open
+397 2026-10-19 22:28:11 DATA The sensor node with 30 detected motion
+398 2026-10-19 22:28:11 DATA Received sensor data with invalid sensor node ID 99
+399 2026-10-19 22:28:11 CONN Received malformed frame on SGP port (bad CRC)
+400 2026-10-19 22:28:12 DATA Received sensor data with invalid sensor node ID 99
+401 2026-10-19 22:28:13 DATA The sensor node with 30 detected motion
+402 2026-10-19 22:28:13 DATA Received sensor data with invalid sensor node ID 99
+403 2026-10-19 22:28:13 DATA The sensor node with 40 reports the door is closed
+404 2026-10-19 22:28:14 DATA Received sensor data with invalid sensor node ID 99
+405 2026-10-19 22:28:14 DATA The sensor node with 30 detected motion
+406 2026-10-19 22:28:15 DATA Received sensor data with invalid sensor node ID 99
+407 2026-10-19 22:28:16 DATA Received sensor data with invalid sensor node ID 99
+408 2026-10-19 22:28:16 DATA The sensor node with 40 reports the door is open
+409 2026-10-19 22:28:16 DATA The sensor node with 30 detected motion
+410 2026-10-19 22:28:17 DATA Received sensor data with invalid sensor node ID 99
+411 2026-10-19 22:28:17 DATA The sensor node with 40 reports the door is closed
+412 2026-10-19 22:28:18 DATA The sensor node with 30 detected motion
+413 2026-10-19 22:28:18 DATA Received sensor data with invalid sensor node ID 99
+414 2026-10-19 22:28:18 DATA The sensor node with 10 reports it's too cold (running avg temperature = 15.0)
+415 2026-10-19 22:28:19 DATA The sensor node with 40 reports the door is open
+416 2026-10-19 22:28:19 DATA Received sensor data with invalid sensor node ID 99
+417 2026-10-19 22:28:20 DATA Received sensor data with invalid sensor node ID 99
+418 2026-10-19 22:28:20 DATA The sensor node with 30 detected motion
+419 2026-10-19 22:28:21 DATA Received sensor data with invalid sensor node ID 99
+420 2026-10-19 22:28:21 DATA The sensor node with 40 reports the door is closed
+421 2026-10-19 22:28:22 DATA Received sensor data with invalid sensor node ID 99
+422 2026-10-19 22:28:22 CONN Received malformed frame on SGP port (bad CRC)
+423 2026-10-19 22:28:23 DATA The sensor node with 30 detected motion
+424 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+425 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+426 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+427 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+428 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+429 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+430 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+431 2026-10-19 22:28:23 CONN Received malformed frame on EVP port (bad length)
+432 2026-10-19 22:28:23 DATA Received sensor data with invalid sensor node ID 99
+433 2026-10-19 22:28:23 CONN Received malformed frame on SGP port (bad length)
+434 2026-10-19 22:28:24 DATA Received sensor data with invalid sensor node ID 99
+435 2026-10-19 22:28:24 CONN Received malformed frame on SGP port (bad CRC)
+436 2026-10-19 22:28:25 CONN Received malformed frame on EVP port (bad length)
+437 2026-10-19 22:28:25 DATA Received sensor data with invalid sensor node ID 99
+438 2026-10-19 22:28:26 DATA The sensor node with 30 detected motion
+439 2026-10-19 22:28:26 DATA Received sensor data with invalid sensor node ID 99
+440 2026-10-19 22:28:26 CONN Received malformed frame on SGP port (bad length)
+441 2026-10-19 22:28:27 DATA The sensor node with 30 detected motion
+442 2026-10-19 22:28:27 DATA Received sensor data with invalid sensor node ID 99
+443 2026-10-19 22:28:27 CONN Received malformed frame on SGP port (bad length)
+444 2026-10-19 22:28:28 DATA The sensor node with 40 reports the door is open
+445 2026-10-19 22:28:28 DATA Received sensor data with invalid sensor node ID 99
+446 2026-10-19 22:28:28 DATA The sensor node with 30 detected motion
+447 2026-10-19 22:28:28 CONN Received malformed frame on SGP port (bad length)
+448 2026-10-19 22:28:29 DATA Received sensor data with invalid sensor node ID 99
+449 2026-10-19 22:28:30 DATA The sensor node with 30 detected motion
+450 2026-10-19 22:28:30 DATA Received sensor data with invalid sensor node ID 99
+451 2026-10-19 22:28:30 DATA The sensor node with 40 reports the door is closed
+452 2026-10-19 22:28:31 DATA The sensor node with 30 detected motion
+453 2026-10-19 22:28:31 DATA Received sensor data with invalid sensor node ID 99
+454 2026-10-19 22:28:31 DATA The sensor node with 10 reports it's too cold (running avg temperature = 14.9)
+455 2026-10-19 22:28:31 CONN Received malformed frame on SGP port (bad CRC)
+456 2026-10-19 22:28:32 DATA The sensor node with 40 reports the door is open
+457 2026-10-19 22:28:32 DATA Received sensor data with invalid sensor node ID 99
+458 2026-10-19 22:28:33 DATA The sensor node with 30 detected motion
+459 2026-10-19 22:28:33 DATA Received sensor data with invalid sensor node ID 99
+460 2026-10-19 22:28:34 DATA The sensor node with 40 reports the door is closed
+461 2026-10-19 22:28:34 DATA Received sensor data with invalid sensor node ID 99
+462 2026-10-19 22:28:34 CONN Received malformed frame on SGP port (bad CRC)
+463 2026-10-19 22:28:35 DATA The sensor node with 30 detected motion
+464 2026-10-19 22:28:35 DATA Received sensor data with invalid sensor node ID 99
+465 2026-10-19 22:28:35 DATA The sensor node with 40 reports the door is open
+466 2026-10-19 22:28:36 DATA The sensor node with 30 detected motion
+467 2026-10-19 22:28:36 DATA Received sensor data with invalid sensor node ID 99
+468 2026-10-19 22:28:37 DATA Received sensor data with invalid sensor node ID 99
+469 2026-10-19 22:28:38 DATA The sensor node with 30 detected motion
+470 2026-10-19 22:28:38 DATA Received sensor data with invalid sensor node ID 99
+471 2026-10-19 22:28:38 DATA The sensor node with 40 reports the door is closed
+472 2026-10-19 22:28:39 DATA Received sensor data with invalid sensor node ID 99
+473 2026-10-19 22:28:39 CONN Received malformed frame on SGP port (bad CRC)
+474 2026-10-19 22:28:40 DATA Received sensor data with invalid sensor node ID 99
+475 2026-10-19 22:28:40 DATA The sensor node with 40 reports the door is open
+476 2026-10-19 22:28:40 DATA The sensor node with 30 detected motion
+477 2026-10-19 22:28:41 DATA Received sensor data with invalid sensor node ID 99
+478 2026-10-19 22:28:42 DATA Received sensor data with invalid sensor node ID 99
+479 2026-10-19 22:28:42 DATA The sensor node with 40 reports the door is closed
+480 2026-10-19 22:28:43 DATA The sensor node with 30 detected motion
+481 2026-10-19 22:28:43 DATA Received sensor data with invalid sensor node ID 99
+482 2026-10-19 22:28:44 DATA Received sensor data with invalid sensor node ID 99
+483 2026-10-19 22:28:45 DATA The sensor node with 30 detected motion
+484 2026-10-19 22:28:45 DATA Received sensor data with invalid sensor node ID 99
+485 2026-10-19 22:28:45 DATA The sensor node with 40 reports the door is open
+486 2026-10-19 22:28:46 DATA Received sensor data with invalid sensor node ID 99
+487 2026-10-19 22:28:46 CONN Received malformed frame on SGP port (bad length)
+488 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+489 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+490 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+491 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+492 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+493 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+494 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+495 2026-10-19 22:28:46 CONN Received malformed frame on EVP port (bad length)
+496 2026-10-19 22:28:47 DATA The sensor node with 30 detected motion
+497 2026-10-19 22:28:47 DATA Received sensor data with invalid sensor node ID 99
+498 2026-10-19 22:28:48 DATA Received sensor data with invalid sensor node ID 99
+499 2026-10-19 22:28:49 CONN Received malformed frame on EVP port (bad length)
+500 2026-10-19 22:28:49 DATA The sensor node with 30 detected motion
+501 2026-10-19 22:28:49 DATA Received sensor data with invalid sensor node ID 99
+502 2026-10-19 22:28:50 DATA Received sensor data with invalid sensor node ID 99
+503 2026-10-19 22:28:50 CONN Received malformed frame on SGP port (bad CRC)
+504 2026-10-19 22:28:51 DATA The sensor node with 30 detected motion
+505 2026-10-19 22:28:51 DATA Received sensor data with invalid sensor node ID 99
+506 2026-10-19 22:28:51 DATA The sensor node with 40 reports the door is closed
+507 2026-10-19 22:28:52 DATA Received sensor data with invalid sensor node ID 99
+508 2026-10-19 22:28:52 DATA The sensor node with 30 detected motion
+509 2026-10-19 22:28:53 DATA Received sensor data with invalid sensor node ID 99
+510 2026-10-19 22:28:53 CONN Received malformed frame on SGP port (bad CRC)
+511 2026-10-19 22:28:54 DATA The sensor node with 30 detected motion
+512 2026-10-19 22:28:54 DATA The sensor node with 40 reports the door is open
+513 2026-10-19 22:28:54 DATA Received sensor data with invalid sensor node ID 99
+514 2026-10-19 22:28:54 CONN Received malformed frame on SGP port (bad length)
+515 2026-10-19 22:28:55 DATA Received sensor data with invalid sensor node ID 99
+516 2026-10-19 22:28:55 DATA The sensor node with 30 detected motion
+517 2026-10-19 22:28:55 DATA The sensor node with 40 reports the door is closed
+518 2026-10-19 22:28:56 DATA Received sensor data with invalid sensor node ID 99
+519 2026-10-19 22:28:57 DATA Received sensor data with invalid sensor node ID 99
+520 2026-10-19 22:28:57 DATA The sensor node with 30 detected motion
+521 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+522 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+523 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+524 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+525 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+526 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+527 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+528 2026-10-19 22:28:58 CONN Received malformed frame on EVP port (bad length)
+529 2026-10-19 22:28:58 DATA Received sensor data with invalid sensor node ID 99
+530 2026-10-19 22:28:59 DATA The sensor node with 30 detected motion
+531 2026-10-19 22:28:59 DATA Received sensor data with invalid sensor node ID 99
+532 2026-10-19 22:28:59 CONN Received malformed frame on EVP port (bad length)
+533 2026-10-19 22:29:00 DATA Received sensor data with invalid sensor node ID 99
+534 2026-10-19 22:29:01 DATA The sensor node with 30 detected motion
+535 2026-10-19 22:29:01 DATA Received sensor data with invalid sensor node ID 99
+536 2026-10-19 22:29:02 DATA The sensor node with 40 reports the door is open
+537 2026-10-19 22:29:02 DATA Received sensor data with invalid sensor node ID 99
+538 2026-10-19 22:29:02 DATA The sensor node with 30 detected motion
+539 2026-10-19 22:29:03 DATA Received sensor data with invalid sensor node ID 99
+540 2026-10-19 22:29:03 DATA The sensor node with 40 reports the door is closed
+541 2026-10-19 22:29:04 DATA Received sensor data with invalid sensor node ID 99
+542 2026-10-19 22:29:05 DATA The sensor node with 30 detected motion
+543 2026-10-19 22:29:05 DATA Received sensor data with invalid sensor node ID 99
+544 2026-10-19 22:29:06 DATA The sensor node with 30 detected motion
+545 2026-10-19 22:29:06 DATA The sensor node with 40 reports the door is open
+546 2026-10-19 22:29:06 DATA Received sensor data with invalid sensor node ID 99
+547 2026-10-19 22:29:07 DATA Received sensor data with invalid sensor node ID 99
+548 2026-10-19 22:29:08 DATA Received sensor data with invalid sensor node ID 99
+549 2026-10-19 22:29:08 CONN Received malformed frame on SGP port (bad length)
+550 2026-10-19 22:29:09 DATA The sensor node with 30 detected motion
+551 2026-10-19 22:29:09 DATA The sensor node with 40 reports the door is closed
+552 2026-10-19 22:29:09 DATA Received sensor data with invalid sensor node ID 99
+553 2026-10-19 22:29:10 DATA Received sensor data with invalid sensor node ID 99
+554 2026-10-19 22:29:11 DATA Received sensor data with invalid sensor node ID 99
+555 2026-10-19 22:29:11 DATA The sensor node with 30 detected motion
+556 2026-10-19 22:29:12 DATA The sensor node with 40 reports the door is open
+557 2026-10-19 22:29:12 DATA Received sensor data with invalid sensor node ID 99
+558 2026-10-19 22:29:13 DATA Received sensor data with invalid sensor node ID 99
+559 2026-10-19 22:29:14 DATA The sensor node with 30 detected motion
+560 2026-10-19 22:29:14 DATA Received sensor data with invalid sensor node ID 99
+561 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+562 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+563 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+564 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+565 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+566 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+567 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+568 2026-10-19 22:29:15 CONN Received malformed frame on EVP port (bad length)
+569 2026-10-19 22:29:15 DATA The sensor node with 30 detected motion
+570 2026-10-19 22:29:15 DATA Received sensor data with invalid sensor node ID 99
+571 2026-10-19 22:29:16 DATA Received sensor data with invalid sensor node ID 99
+572 2026-10-19 22:29:17 CONN Received malformed frame on EVP port (bad length)
+573 2026-10-19 22:29:17 DATA Received sensor data with invalid sensor node ID 99
+574 2026-10-19 22:29:17 DATA The sensor node with 30 detected motion
+575 2026-10-19 22:29:18 DATA Received sensor data with invalid sensor node ID 99
+576 2026-10-19 22:29:18 DATA The sensor node with 40 reports the door is closed
+577 2026-10-19 22:29:19 DATA The sensor node with 30 detected motion
+578 2026-10-19 22:29:19 DATA Received sensor data with invalid sensor node ID 99
+579 2026-10-19 22:29:20 DATA The sensor node with 40 reports the door is open
+580 2026-10-19 22:29:20 DATA Received sensor data with invalid sensor node ID 99
+581 2026-10-19 22:29:21 DATA The sensor node with 30 detected motion
+582 2026-10-19 22:29:21 DATA The sensor node with 40 reports the door is closed
+583 2026-10-19 22:29:21 DATA Received sensor data with invalid sensor node ID 99
+584 2026-10-19 22:29:22 DATA Received sensor data with invalid sensor node ID 99
+585 2026-10-19 22:29:22 DATA The sensor node with 40 reports the door is open
+586 2026-10-19 22:29:23 DATA Received sensor data with invalid sensor node ID 99
+587 2026-10-19 22:29:23 DATA The sensor node with 30 detected motion
+588 2026-10-19 22:29:24 DATA The sensor node with 40 reports the door is closed
+589 2026-10-19 22:29:24 DATA Received sensor data with invalid sensor node ID 99
+590 2026-10-19 22:29:25 DATA Received sensor data with invalid sensor node ID 99
+591 2026-10-19 22:29:25 DATA The sensor node with 30 detected motion
+592 2026-10-19 22:29:26 DATA The sensor node with 40 reports the door is open
+593 2026-10-19 22:29:26 DATA Received sensor data with invalid sensor node ID 99
+594 2026-10-19 22:29:26 CONN Received malformed frame on SGP port (bad CRC)
+595 2026-10-19 22:29:27 DATA Received sensor data with invalid sensor node ID 99
+596 2026-10-19 22:29:27 DATA The sensor node with 30 detected motion
+597 2026-10-19 22:29:28 DATA Received sensor data with invalid sensor node ID 99
+598 2026-10-19 22:29:28 DATA The sensor node with 40 reports the door is closed
+599 2026-10-19 22:29:29 DATA The sensor node with 30 detected motion
+600 2026-10-19 22:29:29 DATA Received sensor data with invalid sensor node ID 99
+601 2026-10-19 22:29:30 DATA The sensor node with 30 detected motion
+602 2026-10-19 22:29:30 DATA Received sensor data with invalid sensor node ID 99
+603 2026-10-19 22:29:30 DATA The sensor node with 40 reports the door is open
+604 2026-10-19 22:29:31 DATA Received sensor data with invalid sensor node ID 99
+605 2026-10-19 22:29:31 CONN Received malformed frame on SGP port (bad CRC)
+606 2026-10-19 22:29:31 DATA The sensor node with 30 detected motion
+607 2026-10-19 22:29:32 DATA Received sensor data with invalid sensor node ID 99
+608 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+609 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+610 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+611 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+612 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+613 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+614 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+615 2026-10-19 22:29:33 CONN Received malformed frame on EVP port (bad length)
+616 2026-10-19 22:29:33 DATA Received sensor data with invalid sensor node ID 99
+617 2026-10-19 22:29:33 CONN Received malformed frame on SGP port (bad length)
+618 2026-10-19 22:29:34 DATA The sensor node with 30 detected motion
+619 2026-10-19 22:29:34 DATA Received sensor data with invalid sensor node ID 99
+620 2026-10-19 22:29:34 CONN Received malformed frame on SGP port (bad CRC)
+621 2026-10-19 22:29:35 DATA Received sensor data with invalid sensor node ID 99
+622 2026-10-19 22:29:35 CONN Received malformed frame on EVP port (bad length)
+623 2026-10-19 22:29:36 DATA The sensor node with 30 detected motion
+624 2026-10-19 22:29:36 DATA Received sensor data with invalid sensor node ID 99
+625 2026-10-19 22:29:37 DATA The sensor node with 40 reports the door is closed
+626 2026-10-19 22:29:37 DATA Received sensor data with invalid sensor node ID 99
+627 2026-10-19 22:29:37 CONN Received malformed frame on SGP port (bad length)
+628 2026-10-19 22:29:38 DATA Received sensor data with invalid sensor node ID 99
+629 2026-10-19 22:29:38 DATA The sensor node with 30 detected motion
+630 2026-10-19 22:29:38 CONN Received malformed frame on SGP port (bad CRC)
+631 2026-10-19 22:29:39 DATA The sensor node with 40 reports the door is open
+632 2026-10-19 22:29:39 DATA Received sensor data with invalid sensor node ID 99
+633 2026-10-19 22:29:39 DATA The sensor node with 30 detected motion
+634 2026-10-19 22:29:40 DATA Received sensor data with invalid sensor node ID 99
+635 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+636 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+637 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+638 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+639 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+640 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+641 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+642 2026-10-19 22:29:40 CONN Received malformed frame on EVP port (bad length)
+643 2026-10-19 22:29:41 DATA Received sensor data with invalid sensor node ID 99
+644 2026-10-19 22:29:41 CONN Received malformed frame on SGP port (bad CRC)
+645 2026-10-19 22:29:42 DATA The sensor node with 30 detected motion
+646 2026-10-19 22:29:42 CONN Received malformed frame on EVP port (bad length)
+647 2026-10-19 22:29:42 DATA Received sensor data with invalid sensor node ID 99
+648 2026-10-19 22:29:43 DATA Received sensor data with invalid sensor node ID 99
+649 2026-10-19 22:29:43 CONN Received malformed frame on SGP port (bad CRC)
+650 2026-10-19 22:29:44 DATA The sensor node with 30 detected motion
+651 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+652 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+653 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+654 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+655 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+656 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+657 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+658 2026-10-19 22:29:44 CONN Received malformed frame on EVP port (bad length)
+659 2026-10-19 22:29:44 DATA Received sensor data with invalid sensor node ID 99
+660 2026-10-19 22:29:44 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.0)
+661 2026-10-19 22:29:45 DATA Received sensor data with invalid sensor node ID 99
+662 2026-10-19 22:29:45 CONN Received malformed frame on EVP port (bad length)
+663 2026-10-19 22:29:46 DATA The sensor node with 30 detected motion
+664 2026-10-19 22:29:46 DATA Received sensor data with invalid sensor node ID 99
+665 2026-10-19 22:29:47 DATA The sensor node with 30 detected motion
+666 2026-10-19 22:29:47 DATA Received sensor data with invalid sensor node ID 99
+667 2026-10-19 22:29:48 DATA The sensor node with 40 reports the door is closed
+668 2026-10-19 22:29:48 DATA Received sensor data with invalid sensor node ID 99
+669 2026-10-19 22:29:49 DATA The sensor node with 30 detected motion
+670 2026-10-19 22:29:49 DATA Received sensor data with invalid sensor node ID 99
+671 2026-10-19 22:29:50 DATA The sensor node with 40 reports the door is open
+672 2026-10-19 22:29:50 DATA Received sensor data with invalid sensor node ID 99
+673 2026-10-19 22:29:51 DATA Received sensor data with invalid sensor node ID 99
+674 2026-10-19 22:29:51 DATA The sensor node with 30 detected motion
+675 2026-10-19 22:29:52 DATA Received sensor data with invalid sensor node ID 99
+676 2026-10-19 22:29:52 DATA The sensor node with 40 reports the door is closed
+677 2026-10-19 22:29:53 DATA Received sensor data with invalid sensor node ID 99
+678 2026-10-19 22:29:54 DATA Received sensor data with invalid sensor node ID 99
+679 2026-10-19 22:29:54 DATA The sensor node with 30 detected motion
+680 2026-10-19 22:29:54 DATA The sensor node with 40 reports the door is open
+681 2026-10-19 22:29:55 DATA Received sensor data with invalid sensor node ID 99
+682 2026-10-19 22:29:56 DATA Received sensor data with invalid sensor node ID 99
+683 2026-10-19 22:29:56 DATA The sensor node with 30 detected motion
+684 2026-10-19 22:29:57 DATA The sensor node with 40 reports the door is closed
+685 2026-10-19 22:29:57 DATA Received sensor data with invalid sensor node ID 99
+686 2026-10-19 22:29:57 DATA The sensor node with 50 reports a smoke/gas alarm (concentration = 302 ppm)
+687 2026-10-19 22:29:58 DATA The sensor node with 30 detected motion
+688 2026-10-19 22:29:58 DATA The sensor node with 40 reports the door is open
+689 2026-10-19 22:29:58 DATA Received sensor data with invalid sensor node ID 99
+690 2026-10-19 22:29:59 DATA The sensor node with 40 reports the door is closed
+691 2026-10-19 22:29:59 DATA Received sensor data with invalid sensor node ID 99
+692 2026-10-19 22:30:00 DATA Received sensor data with invalid sensor node ID 99
+693 2026-10-19 22:30:00 DATA The sensor node with 30 detected motion
+694 2026-10-19 22:30:01 DATA The sensor node with 40 reports the door is open
+695 2026-10-19 22:30:01 DATA Received sensor data with invalid sensor node ID 99
+696 2026-10-19 22:30:02 DATA Received sensor data with invalid sensor node ID 99
+697 2026-10-19 22:30:03 DATA The sensor node with 40 reports the door is closed
+698 2026-10-19 22:30:03 DATA Received sensor data with invalid sensor node ID 99
+699 2026-10-19 22:30:03 DATA The sensor node with 30 detected motion
+700 2026-10-19 22:30:04 DATA Received sensor data with invalid sensor node ID 99
+701 2026-10-19 22:30:04 DATA The sensor node with 40 reports the door is open
+702 2026-10-19 22:30:05 DATA Received sensor data with invalid sensor node ID 99
+703 2026-10-19 22:30:05 DATA The sensor node with 30 detected motion
+704 2026-10-19 22:30:06 DATA Received sensor data with invalid sensor node ID 99
+705 2026-10-19 22:30:06 CONN Received malformed frame on SGP port (bad length)
+706 2026-10-19 22:30:06 CONN Received malformed frame on SGP port (bad CRC)
+707 2026-10-19 22:30:06 CONN Received malformed frame on SGP port (bad CRC)
+708 2026-10-19 22:30:06 CONN Received malformed frame on SGP port (bad CRC)
+709 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+710 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+711 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+712 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+713 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+714 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+715 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+716 2026-10-19 22:30:07 CONN Received malformed frame on EVP port (bad length)
+717 2026-10-19 22:30:07 DATA Received sensor data with invalid sensor node ID 99
+718 2026-10-19 22:30:07 DATA The sensor node with 30 detected motion
+719 2026-10-19 22:30:07 CONN Received malformed frame on SGP port (bad CRC)
+720 2026-10-19 22:30:07 CONN Received malformed frame on SGP port (bad length)
+721 2026-10-19 22:30:08 CONN Received malformed frame on EVP port (bad length)
+722 2026-10-19 22:30:08 DATA Received sensor data with invalid sensor node ID 99
+723 2026-10-19 22:30:09 DATA Received sensor data with invalid sensor node ID 99
+724 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+725 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+726 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+727 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+728 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+729 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+730 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+731 2026-10-19 22:30:09 CONN Received malformed frame on EVP port (bad length)
+732 2026-10-19 22:30:10 DATA The sensor node with 30 detected motion
+733 2026-10-19 22:30:10 DATA Received sensor data with invalid sensor node ID 99
+734 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+735 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+736 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+737 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+738 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+739 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+740 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+741 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+742 2026-10-19 22:30:11 CONN Received malformed frame on EVP port (bad length)
+743 2026-10-19 22:30:11 DATA Received sensor data with invalid sensor node ID 99
+744 2026-10-19 22:30:11 CONN Received malformed frame on SGP port (bad length)
+745 2026-10-19 22:30:11 DATA The sensor node with 30 detected motion
+746 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+747 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+748 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+749 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+750 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+751 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+752 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+753 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+754 2026-10-19 22:30:12 CONN Received malformed frame on EVP port (bad length)
+755 2026-10-19 22:30:12 DATA Received sensor data with invalid sensor node ID 99
+756 2026-10-19 22:30:13 DATA Received sensor data with invalid sensor node ID 99
+757 2026-10-19 22:30:14 DATA The sensor node with 30 detected motion
+758 2026-10-19 22:30:14 DATA Received sensor data with invalid sensor node ID 99
+759 2026-10-19 22:30:14 CONN Received malformed frame on EVP port (bad length)
+760 2026-10-19 22:30:14 CONN Received malformed frame on SGP port (bad length)
+761 2026-10-19 22:30:15 DATA Received sensor data with invalid sensor node ID 99
+762 2026-10-19 22:30:15 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.1)
+763 2026-10-19 22:30:16 DATA The sensor node with 30 detected motion
+764 2026-10-19 22:30:16 DATA The sensor node with 40 reports the door is closed
+765 2026-10-19 22:30:16 DATA Received sensor data with invalid sensor node ID 99
+766 2026-10-19 22:30:17 DATA The sensor node with 30 detected motion
+767 2026-10-19 22:30:17 DATA Received sensor data with invalid sensor node ID 99
+768 2026-10-19 22:30:17 CONN Received malformed frame on SGP port (bad length)
+769 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+770 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+771 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+772 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+773 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+774 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+775 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+776 2026-10-19 22:30:18 CONN Received malformed frame on EVP port (bad length)
+777 2026-10-19 22:30:18 DATA Received sensor data with invalid sensor node ID 99
+778 2026-10-19 22:30:18 CONN Received malformed frame on SGP port (bad length)
+779 2026-10-19 22:30:19 CONN Received malformed frame on EVP port (bad length)
+780 2026-10-19 22:30:19 DATA The sensor node with 30 detected motion
+781 2026-10-19 22:30:19 DATA Received sensor data with invalid sensor node ID 99
+782 2026-10-19 22:30:20 DATA Received sensor data with invalid sensor node ID 99
+783 2026-10-19 22:30:21 DATA The sensor node with 40 reports the door is open
+784 2026-10-19 22:30:21 DATA The sensor node with 30 detected motion
+785 2026-10-19 22:30:21 DATA Received sensor data with invalid sensor node ID 99
+786 2026-10-19 22:30:21 CONN Received malformed frame on SGP port (bad length)
+787 2026-10-19 22:30:22 DATA Received sensor data with invalid sensor node ID 99
+788 2026-10-19 22:30:22 DATA The sensor node with 30 detected motion
+789 2026-10-19 22:30:23 DATA Received sensor data with invalid sensor node ID 99
+790 2026-10-19 22:30:24 DATA The sensor node with 30 detected motion
+791 2026-10-19 22:30:24 DATA The sensor node with 40 reports the door is closed
+792 2026-10-19 22:30:24 DATA Received sensor data with invalid sensor node ID 99
+793 2026-10-19 22:30:25 DATA Received sensor data with invalid sensor node ID 99
+794 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+795 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+796 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+797 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+798 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+799 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+800 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+801 2026-10-19 22:30:26 CONN Received malformed frame on EVP port (bad length)
+802 2026-10-19 22:30:26 DATA The sensor node with 30 detected motion
+803 2026-10-19 22:30:26 DATA Received sensor data with invalid sensor node ID 99
+804 2026-10-19 22:30:27 DATA The sensor node with 30 detected motion
+805 2026-10-19 22:30:27 DATA Received sensor data with invalid sensor node ID 99
+806 2026-10-19 22:30:27 CONN Received malformed frame on SGP port (bad length)
+807 2026-10-19 22:30:28 DATA The sensor node with 30 detected motion
+808 2026-10-19 22:30:28 CONN Received malformed frame on EVP port (bad length)
+809 2026-10-19 22:30:28 DATA Received sensor data with invalid sensor node ID 99
+810 2026-10-19 22:30:29 DATA The sensor node with 30 detected motion
+811 2026-10-19 22:30:29 DATA Received sensor data with invalid sensor node ID 99
+812 2026-10-19 22:30:29 CONN Received malformed frame on SGP port (bad CRC)
+813 2026-10-19 22:30:30 DATA Received sensor data with invalid sensor node ID 99
+814 2026-10-19 22:30:30 DATA The sensor node with 40 reports the door is open
+815 2026-10-19 22:30:31 DATA The sensor node with 30 detected motion
+816 2026-10-19 22:30:31 DATA Received sensor data with invalid sensor node ID 99
+817 2026-10-19 22:30:32 DATA The sensor node with 40 reports the door is closed
+818 2026-10-19 22:30:32 DATA The sensor node with 30 detected motion
+819 2026-10-19 22:30:32 DATA Received sensor data with invalid sensor node ID 99
+820 2026-10-19 22:30:33 DATA The sensor node with 40 reports the door is open
+821 2026-10-19 22:30:33 DATA Received sensor data with invalid sensor node ID 99
+822 2026-10-19 22:30:34 DATA Received sensor data with invalid sensor node ID 99
+823 2026-10-19 22:30:34 DATA The sensor node with 30 detected motion
+824 2026-10-19 22:30:35 DATA The sensor node with 40 reports the door is closed
+825 2026-10-19 22:30:35 DATA Received sensor data with invalid sensor node ID 99
+826 2026-10-19 22:30:36 DATA The sensor node with 30 detected motion
+827 2026-10-19 22:30:36 DATA The sensor node with 40 reports the door is open
+828 2026-10-19 22:30:36 DATA Received sensor data with invalid sensor node ID 99
+829 2026-10-19 22:30:37 DATA Received sensor data with invalid sensor node ID 99
+830 2026-10-19 22:30:37 DATA The sensor node with 30 detected motion
+831 2026-10-19 22:30:38 DATA Received sensor data with invalid sensor node ID 99
+832 2026-10-19 22:30:38 DATA The sensor node with 40 reports the door is closed
+833 2026-10-19 22:30:39 DATA The sensor node with 30 detected motion
+834 2026-10-19 22:30:39 DATA Received sensor data with invalid sensor node ID 99
+835 2026-10-19 22:30:40 DATA Received sensor data with invalid sensor node ID 99
+836 2026-10-19 22:30:40 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.2)
+837 2026-10-19 22:30:41 DATA The sensor node with 30 detected motion
+838 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+839 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+840 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+841 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+842 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+843 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+844 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+845 2026-10-19 22:30:41 CONN Received malformed frame on EVP port (bad length)
+846 2026-10-19 22:30:41 DATA Received sensor data with invalid sensor node ID 99
+847 2026-10-19 22:30:42 DATA Received sensor data with invalid sensor node ID 99
+848 2026-10-19 22:30:42 DATA The sensor node with 30 detected motion
+849 2026-10-19 22:30:43 DATA Received sensor data with invalid sensor node ID 99
+850 2026-10-19 22:30:44 CONN Received malformed frame on EVP port (bad length)
+851 2026-10-19 22:30:44 DATA Received sensor data with invalid sensor node ID 99
+852 2026-10-19 22:30:45 DATA The sensor node with 30 detected motion
+853 2026-10-19 22:30:45 DATA Received sensor data with invalid sensor node ID 99
+854 2026-10-19 22:30:46 DATA Received sensor data with invalid sensor node ID 99
+855 2026-10-19 22:30:46 DATA The sensor node with 30 detected motion
+856 2026-10-19 22:30:47 DATA The sensor node with 40 reports the door is open
+857 2026-10-19 22:30:47 DATA Received sensor data with invalid sensor node ID 99
+858 2026-10-19 22:30:47 CONN Received malformed frame on SGP port (bad length)
+859 2026-10-19 22:30:48 DATA The sensor node with 40 reports the door is closed
+860 2026-10-19 22:30:48 DATA Received sensor data with invalid sensor node ID 99
+861 2026-10-19 22:30:48 CONN Received malformed frame on SGP port (bad CRC)
+862 2026-10-19 22:30:49 DATA The sensor node with 30 detected motion
+863 2026-10-19 22:30:49 DATA Received sensor data with invalid sensor node ID 99
+864 2026-10-19 22:30:50 DATA Received sensor data with invalid sensor node ID 99
+865 2026-10-19 22:30:50 CONN Received malformed frame on SGP port (bad CRC)
+866 2026-10-19 22:30:51 DATA The sensor node with 40 reports the door is open
+867 2026-10-19 22:30:51 DATA Received sensor data with invalid sensor node ID 99
+868 2026-10-19 22:30:51 CONN Received malformed frame on SGP port (bad length)
+869 2026-10-19 22:30:51 DATA The sensor node with 30 detected motion
+870 2026-10-19 22:30:52 DATA The sensor node with 40 reports the door is closed
+871 2026-10-19 22:30:52 DATA Received sensor data with invalid sensor node ID 99
+872 2026-10-19 22:30:52 CONN Received malformed frame on SGP port (bad CRC)
+873 2026-10-19 22:30:53 DATA Received sensor data with invalid sensor node ID 99
+874 2026-10-19 22:30:53 DATA The sensor node with 30 detected motion
+875 2026-10-19 22:30:54 DATA Received sensor data with invalid sensor node ID 99
+876 2026-10-19 22:30:54 DATA The sensor node with 40 reports the door is open
+877 2026-10-19 22:30:55 DATA The sensor node with 30 detected motion
+878 2026-10-19 22:30:55 DATA Received sensor data with invalid sensor node ID 99
+879 2026-10-19 22:30:56 DATA Received sensor data with invalid sensor node ID 99
+880 2026-10-19 22:30:56 DATA The sensor node with 40 reports the door is closed
+881 2026-10-19 22:30:57 DATA The sensor node with 30 detected motion
+882 2026-10-19 22:30:57 DATA Received sensor data with invalid sensor node ID 99
+883 2026-10-19 22:30:58 DATA The sensor node with 40 reports the door is open
+884 2026-10-19 22:30:58 DATA Received sensor data with invalid sensor node ID 99
+885 2026-10-19 22:30:59 DATA Received sensor data with invalid sensor node ID 99
+886 2026-10-19 22:30:59 DATA The sensor node with 30 detected motion
+887 2026-10-19 22:31:00 DATA Received sensor data with invalid sensor node ID 99
+888 2026-10-19 22:31:00 DATA The sensor node with 40 reports the door is closed
+889 2026-10-19 22:31:01 DATA Received sensor data with invalid sensor node ID 99
+890 2026-10-19 22:31:02 DATA The sensor node with 30 detected motion
+891 2026-10-19 22:31:02 DATA Received sensor data with invalid sensor node ID 99
+892 2026-10-19 22:31:03 DATA The sensor node with 40 reports the door is open
+893 2026-10-19 22:31:03 DATA Received sensor data with invalid sensor node ID 99
+894 2026-10-19 22:31:04 DATA Received sensor data with invalid sensor node ID 99
+895 2026-10-19 22:31:04 DATA The sensor node with 30 detected motion
+896 2026-10-19 22:31:05 DATA Received sensor data with invalid sensor node ID 99
+897 2026-10-19 22:31:06 DATA The sensor node with 40 reports the door is closed
+898 2026-10-19 22:31:06 DATA Received sensor data with invalid sensor node ID 99
+899 2026-10-19 22:31:07 DATA The sensor node with 30 detected motion
+900 2026-10-19 22:31:07 DATA Received sensor data with invalid sensor node ID 99
+901 2026-10-19 22:31:08 DATA The sensor node with 40 reports the door is open
+902 2026-10-19 22:31:08 DATA Received sensor data with invalid sensor node ID 99
+903 2026-10-19 22:31:09 DATA Received sensor data with invalid sensor node ID 99
+904 2026-10-19 22:31:09 DATA The sensor node with 30 detected motion
+905 2026-10-19 22:31:09 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.0)
+906 2026-10-19 22:31:09 CONN Received malformed frame on SGP port (bad length)
+907 2026-10-19 22:31:10 DATA The sensor node with 40 reports the door is closed
+908 2026-10-19 22:31:10 DATA Received sensor data with invalid sensor node ID 99
+909 2026-10-19 22:31:10 DATA The sensor node with 30 detected motion
+910 2026-10-19 22:31:11 DATA Received sensor data with invalid sensor node ID 99
+911 2026-10-19 22:31:11 DATA The sensor node with 40 reports the door is open
+912 2026-10-19 22:31:12 DATA The sensor node with 30 detected motion
+913 2026-10-19 22:31:12 DATA Received sensor data with invalid sensor node ID 99
+914 2026-10-19 22:31:13 DATA Received sensor data with invalid sensor node ID 99
+915 2026-10-19 22:31:14 DATA Received sensor data with invalid sensor node ID 99
+916 2026-10-19 22:31:14 DATA The sensor node with 30 detected motion
+917 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+918 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+919 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+920 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+921 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+922 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+923 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+924 2026-10-19 22:31:14 CONN Received malformed frame on EVP port (bad length)
+925 2026-10-19 22:31:14 CONN Received malformed frame on SGP port (bad length)
+926 2026-10-19 22:31:15 DATA Received sensor data with invalid sensor node ID 99
+927 2026-10-19 22:31:16 DATA The sensor node with 30 detected motion
+928 2026-10-19 22:31:16 DATA Received sensor data with invalid sensor node ID 99
+929 2026-10-19 22:31:16 CONN Received malformed frame on EVP port (bad length)
+930 2026-10-19 22:31:16 CONN Received malformed frame on SGP port (bad length)
+931 2026-10-19 22:31:17 DATA Received sensor data with invalid sensor node ID 99
+932 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+933 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+934 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+935 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+936 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+937 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+938 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+939 2026-10-19 22:31:18 CONN Received malformed frame on EVP port (bad length)
+940 2026-10-19 22:31:18 DATA Received sensor data with invalid sensor node ID 99
+941 2026-10-19 22:31:19 DATA The sensor node with 30 detected motion
+942 2026-10-19 22:31:19 DATA Received sensor data with invalid sensor node ID 99
+943 2026-10-19 22:31:19 CONN Received malformed frame on EVP port (bad length)
+944 2026-10-19 22:31:20 DATA Received sensor data with invalid sensor node ID 99
+945 2026-10-19 22:31:20 DATA The sensor node with 30 detected motion
+946 2026-10-19 22:31:21 DATA The sensor node with 40 reports the door is closed
+947 2026-10-19 22:31:21 DATA Received sensor data with invalid sensor node ID 99
+948 2026-10-19 22:31:22 DATA The sensor node with 30 detected motion
+949 2026-10-19 22:31:22 DATA Received sensor data with invalid sensor node ID 99
+950 2026-10-19 22:31:22 DATA The sensor node with 40 reports the door is open
+951 2026-10-19 22:31:22 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.1)
+952 2026-10-19 22:31:23 DATA Received sensor data with invalid sensor node ID 99
+953 2026-10-19 22:31:24 DATA The sensor node with 40 reports the door is closed
+954 2026-10-19 22:31:24 DATA Received sensor data with invalid sensor node ID 99
+955 2026-10-19 22:31:24 DATA The sensor node with 30 detected motion
+956 2026-10-19 22:31:25 DATA Received sensor data with invalid sensor node ID 99
+957 2026-10-19 22:31:26 DATA Received sensor data with invalid sensor node ID 99
+958 2026-10-19 22:31:26 DATA The sensor node with 40 reports the door is open
+959 2026-10-19 22:31:27 DATA The sensor node with 30 detected motion
+960 2026-10-19 22:31:27 DATA Received sensor data with invalid sensor node ID 99
+961 2026-10-19 22:31:28 DATA The sensor node with 40 reports the door is closed
+962 2026-10-19 22:31:28 DATA Received sensor data with invalid sensor node ID 99
+963 2026-10-19 22:31:29 DATA Received sensor data with invalid sensor node ID 99
+964 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+965 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+966 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+967 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+968 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+969 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+970 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+971 2026-10-19 22:31:29 CONN Received malformed frame on EVP port (bad length)
+972 2026-10-19 22:31:29 DATA The sensor node with 30 detected motion
+973 2026-10-19 22:31:30 DATA Received sensor data with invalid sensor node ID 99
+974 2026-10-19 22:31:31 CONN Received malformed frame on EVP port (bad length)
+975 2026-10-19 22:31:31 DATA The sensor node with 30 detected motion
+976 2026-10-19 22:31:31 DATA Received sensor data with invalid sensor node ID 99
+977 2026-10-19 22:31:32 DATA Received sensor data with invalid sensor node ID 99
+978 2026-10-19 22:31:32 CONN Received malformed frame on SGP port (bad CRC)
+979 2026-10-19 22:31:33 DATA The sensor node with 30 detected motion
+980 2026-10-19 22:31:33 DATA Received sensor data with invalid sensor node ID 99
+981 2026-10-19 22:31:34 DATA The sensor node with 40 reports the door is open
+982 2026-10-19 22:31:34 DATA Received sensor data with invalid sensor node ID 99
+983 2026-10-19 22:31:34 CONN Received malformed frame on SGP port (bad length)
+984 2026-10-19 22:31:35 DATA The sensor node with 40 reports the door is closed
+985 2026-10-19 22:31:35 DATA The sensor node with 30 detected motion
+986 2026-10-19 22:31:35 DATA Received sensor data with invalid sensor node ID 99
+987 2026-10-19 22:31:35 CONN Received malformed frame on SGP port (bad length)
+988 2026-10-19 22:31:36 DATA Received sensor data with invalid sensor node ID 99
+989 2026-10-19 22:31:36 DATA The sensor node with 30 detected motion
+990 2026-10-19 22:31:37 DATA Received sensor data with invalid sensor node ID 99
+991 2026-10-19 22:31:38 DATA The sensor node with 40 reports the door is open
+992 2026-10-19 22:31:38 DATA Received sensor data with invalid sensor node ID 99
+993 2026-10-19 22:31:39 DATA The sensor node with 30 detected motion
+994 2026-10-19 22:31:39 DATA Received sensor data with invalid sensor node ID 99
+995 2026-10-19 22:31:40 DATA The sensor node with 40 reports the door is closed
+996 2026-10-19 22:31:40 DATA Received sensor data with invalid sensor node ID 99
+997 2026-10-19 22:31:41 DATA The sensor node with 30 detected motion
+998 2026-10-19 22:31:41 DATA Received sensor data with invalid sensor node ID 99
+999 2026-10-19 22:31:41 CONN Received malformed frame on SGP port (bad length)
+1000 2026-10-19 22:31:42 DATA Received sensor data with invalid sensor node ID 99
+1001 2026-10-19 22:31:42 DATA The sensor node with 40 reports the door is open
+1002 2026-10-19 22:31:43 DATA The sensor node with 30 detected motion
+1003 2026-10-19 22:31:43 DATA Received sensor data with invalid sensor node ID 99
+1004 2026-10-19 22:31:44 DATA Received sensor data with invalid sensor node ID 99
+1005 2026-10-19 22:31:44 DATA The sensor node with 30 detected motion
+1006 2026-10-19 22:31:45 DATA Received sensor data with invalid sensor node ID 99
+1007 2026-10-19 22:31:45 DATA The sensor node with 40 reports the door is closed
+1008 2026-10-19 22:31:45 DATA The sensor node with 30 detected motion
+1009 2026-10-19 22:31:46 DATA Received sensor data with invalid sensor node ID 99
+1010 2026-10-19 22:31:46 DATA The sensor node with 40 reports the door is open
+1011 2026-10-19 22:31:46 CONN Received malformed frame on SGP port (bad length)
+1012 2026-10-19 22:31:47 DATA Received sensor data with invalid sensor node ID 99
+1013 2026-10-19 22:31:47 DATA The sensor node with 30 detected motion
+1014 2026-10-19 22:31:47 CONN Received malformed frame on SGP port (bad CRC)
+1015 2026-10-19 22:31:48 DATA Received sensor data with invalid sensor node ID 99
+1016 2026-10-19 22:31:49 DATA The sensor node with 40 reports the door is closed
+1017 2026-10-19 22:31:49 DATA Received sensor data with invalid sensor node ID 99
+1018 2026-10-19 22:31:49 DATA The sensor node with 30 detected motion
+1019 2026-10-19 22:31:50 DATA The sensor node with 40 reports the door is open
+1020 2026-10-19 22:31:50 DATA Received sensor data with invalid sensor node ID 99
+1021 2026-10-19 22:31:51 DATA The sensor node with 30 detected motion
+1022 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1023 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1024 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1025 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1026 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1027 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1028 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1029 2026-10-19 22:31:51 CONN Received malformed frame on EVP port (bad length)
+1030 2026-10-19 22:31:51 DATA Received sensor data with invalid sensor node ID 99
+1031 2026-10-19 22:31:52 DATA Received sensor data with invalid sensor node ID 99
+1032 2026-10-19 22:31:53 DATA Received sensor data with invalid sensor node ID 99
+1033 2026-10-19 22:31:53 CONN Received malformed frame on EVP port (bad length)
+1034 2026-10-19 22:31:54 DATA The sensor node with 30 detected motion
+1035 2026-10-19 22:31:54 DATA Received sensor data with invalid sensor node ID 99
+1036 2026-10-19 22:31:55 DATA Received sensor data with invalid sensor node ID 99
+1037 2026-10-19 22:31:55 DATA The sensor node with 40 reports the door is closed
+1038 2026-10-19 22:31:56 DATA Received sensor data with invalid sensor node ID 99
+1039 2026-10-19 22:31:56 DATA The sensor node with 30 detected motion
+1040 2026-10-19 22:31:57 DATA Received sensor data with invalid sensor node ID 99
+1041 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1042 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1043 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1044 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1045 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1046 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1047 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1048 2026-10-19 22:31:58 CONN Received malformed frame on EVP port (bad length)
+1049 2026-10-19 22:31:58 DATA The sensor node with 30 detected motion
+1050 2026-10-19 22:31:58 DATA Received sensor data with invalid sensor node ID 99
+1051 2026-10-19 22:31:59 DATA Received sensor data with invalid sensor node ID 99
+1052 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1053 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1054 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1055 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1056 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1057 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1058 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1059 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1060 2026-10-19 22:31:59 CONN Received malformed frame on EVP port (bad length)
+1061 2026-10-19 22:32:00 DATA Received sensor data with invalid sensor node ID 99
+1062 2026-10-19 22:32:00 DATA The sensor node with 30 detected motion
+1063 2026-10-19 22:32:01 CONN Received malformed frame on EVP port (bad length)
+1064 2026-10-19 22:32:01 DATA The sensor node with 40 reports the door is open
+1065 2026-10-19 22:32:01 DATA Received sensor data with invalid sensor node ID 99
+1066 2026-10-19 22:32:02 DATA The sensor node with 30 detected motion
+1067 2026-10-19 22:32:02 DATA The sensor node with 40 reports the door is closed
+1068 2026-10-19 22:32:02 DATA Received sensor data with invalid sensor node ID 99
+1069 2026-10-19 22:32:03 DATA The sensor node with 30 detected motion
+1070 2026-10-19 22:32:03 DATA Received sensor data with invalid sensor node ID 99
+1071 2026-10-19 22:32:04 DATA Received sensor data with invalid sensor node ID 99
+1072 2026-10-19 22:32:05 DATA The sensor node with 30 detected motion
+1073 2026-10-19 22:32:05 DATA The sensor node with 40 reports the door is open
+1074 2026-10-19 22:32:05 DATA Received sensor data with invalid sensor node ID 99
+1075 2026-10-19 22:32:06 DATA The sensor node with 30 detected motion
+1076 2026-10-19 22:32:06 DATA Received sensor data with invalid sensor node ID 99
+1077 2026-10-19 22:32:07 DATA Received sensor data with invalid sensor node ID 99
+1078 2026-10-19 22:32:07 CONN Received malformed frame on SGP port (bad CRC)
+1079 2026-10-19 22:32:08 DATA The sensor node with 40 reports the door is closed
+1080 2026-10-19 22:32:08 DATA Received sensor data with invalid sensor node ID 99
+1081 2026-10-19 22:32:09 DATA The sensor node with 30 detected motion
+1082 2026-10-19 22:32:09 DATA The sensor node with 40 reports the door is open
+1083 2026-10-19 22:32:09 DATA Received sensor data with invalid sensor node ID 99
+1084 2026-10-19 22:32:10 DATA Received sensor data with invalid sensor node ID 99
+1085 2026-10-19 22:32:11 DATA The sensor node with 30 detected motion
+1086 2026-10-19 22:32:11 DATA The sensor node with 40 reports the door is closed
+1087 2026-10-19 22:32:11 DATA Received sensor data with invalid sensor node ID 99
+1088 2026-10-19 22:32:12 DATA Received sensor data with invalid sensor node ID 99
+1089 2026-10-19 22:32:12 DATA The sensor node with 30 detected motion
+1090 2026-10-19 22:32:13 DATA The sensor node with 40 reports the door is open
+1091 2026-10-19 22:32:13 DATA Received sensor data with invalid sensor node ID 99
+1092 2026-10-19 22:32:13 DATA The sensor node with 30 detected motion
+1093 2026-10-19 22:32:14 DATA Received sensor data with invalid sensor node ID 99
+1094 2026-10-19 22:32:15 DATA Received sensor data with invalid sensor node ID 99
+1095 2026-10-19 22:32:16 DATA The sensor node with 40 reports the door is closed
+1096 2026-10-19 22:32:16 DATA The sensor node with 30 detected motion
+1097 2026-10-19 22:32:16 DATA Received sensor data with invalid sensor node ID 99
+1098 2026-10-19 22:32:17 DATA The sensor node with 40 reports the door is open
+1099 2026-10-19 22:32:17 DATA Received sensor data with invalid sensor node ID 99
+1100 2026-10-19 22:32:18 DATA Received sensor data with invalid sensor node ID 99
+1101 2026-10-19 22:32:18 DATA The sensor node with 30 detected motion
+1102 2026-10-19 22:32:19 DATA Received sensor data with invalid sensor node ID 99
+1103 2026-10-19 22:32:20 DATA The sensor node with 30 detected motion
+1104 2026-10-19 22:32:20 DATA The sensor node with 40 reports the door is closed
+1105 2026-10-19 22:32:20 DATA Received sensor data with invalid sensor node ID 99
+1106 2026-10-19 22:32:21 DATA Received sensor data with invalid sensor node ID 99
+1107 2026-10-19 22:32:21 DATA The sensor node with 40 reports the door is open
+1108 2026-10-19 22:32:22 DATA The sensor node with 30 detected motion
+1109 2026-10-19 22:32:22 DATA Received sensor data with invalid sensor node ID 99
+1110 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1111 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1112 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1113 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1114 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1115 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1116 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1117 2026-10-19 22:32:23 CONN Received malformed frame on EVP port (bad length)
+1118 2026-10-19 22:32:23 DATA Received sensor data with invalid sensor node ID 99
+1119 2026-10-19 22:32:24 DATA Received sensor data with invalid sensor node ID 99
+1120 2026-10-19 22:32:25 CONN Received malformed frame on EVP port (bad length)
+1121 2026-10-19 22:32:25 DATA The sensor node with 30 detected motion
+1122 2026-10-19 22:32:25 DATA Received sensor data with invalid sensor node ID 99
+1123 2026-10-19 22:32:26 DATA Received sensor data with invalid sensor node ID 99
+1124 2026-10-19 22:32:27 DATA The sensor node with 40 reports the door is closed
+1125 2026-10-19 22:32:27 DATA The sensor node with 30 detected motion
+1126 2026-10-19 22:32:27 DATA Received sensor data with invalid sensor node ID 99
+1127 2026-10-19 22:32:28 DATA Received sensor data with invalid sensor node ID 99
+1128 2026-10-19 22:32:28 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.2)
+1129 2026-10-19 22:32:29 DATA The sensor node with 40 reports the door is open
+1130 2026-10-19 22:32:29 DATA Received sensor data with invalid sensor node ID 99
+1131 2026-10-19 22:32:30 DATA The sensor node with 30 detected motion
+1132 2026-10-19 22:32:30 DATA Received sensor data with invalid sensor node ID 99
+1133 2026-10-19 22:32:30 DATA The sensor node with 40 reports the door is closed
+1134 2026-10-19 22:32:31 DATA Received sensor data with invalid sensor node ID 99
+1135 2026-10-19 22:32:31 DATA The sensor node with 30 detected motion
+1136 2026-10-19 22:32:32 DATA The sensor node with 40 reports the door is open
+1137 2026-10-19 22:32:32 DATA Received sensor data with invalid sensor node ID 99
+1138 2026-10-19 22:32:33 DATA The sensor node with 30 detected motion
+1139 2026-10-19 22:32:33 DATA Received sensor data with invalid sensor node ID 99
+1140 2026-10-19 22:32:33 CONN Received malformed frame on SGP port (bad CRC)
+1141 2026-10-19 22:32:34 DATA Received sensor data with invalid sensor node ID 99
+1142 2026-10-19 22:32:35 DATA The sensor node with 40 reports the door is closed
+1143 2026-10-19 22:32:35 DATA The sensor node with 30 detected motion
+1144 2026-10-19 22:32:35 DATA Received sensor data with invalid sensor node ID 99
+1145 2026-10-19 22:32:36 DATA The sensor node with 30 detected motion
+1146 2026-10-19 22:32:36 DATA Received sensor data with invalid sensor node ID 99
+1147 2026-10-19 22:32:37 DATA The sensor node with 40 reports the door is open
+1148 2026-10-19 22:32:37 DATA Received sensor data with invalid sensor node ID 99
+1149 2026-10-19 22:32:38 DATA The sensor node with 30 detected motion
+1150 2026-10-19 22:32:38 DATA Received sensor data with invalid sensor node ID 99
+1151 2026-10-19 22:32:38 CONN Received malformed frame on SGP port (bad CRC)
+1152 2026-10-19 22:32:39 DATA Received sensor data with invalid sensor node ID 99
+1153 2026-10-19 22:32:40 DATA The sensor node with 40 reports the door is closed
+1154 2026-10-19 22:32:40 DATA Received sensor data with invalid sensor node ID 99
+1155 2026-10-19 22:32:41 DATA The sensor node with 30 detected motion
+1156 2026-10-19 22:32:41 DATA Received sensor data with invalid sensor node ID 99
+1157 2026-10-19 22:32:41 DATA The sensor node with 40 reports the door is open
+1158 2026-10-19 22:32:42 DATA Received sensor data with invalid sensor node ID 99
+1159 2026-10-19 22:32:42 DATA The sensor node with 30 detected motion
+1160 2026-10-19 22:32:42 DATA The sensor node with 40 reports the door is closed
+1161 2026-10-19 22:32:43 DATA Received sensor data with invalid sensor node ID 99
+1162 2026-10-19 22:32:43 CONN Received malformed frame on SGP port (bad CRC)
+1163 2026-10-19 22:32:43 DATA The sensor node with 30 detected motion
+1164 2026-10-19 22:32:44 DATA Received sensor data with invalid sensor node ID 99
+1165 2026-10-19 22:32:45 DATA The sensor node with 40 reports the door is open
+1166 2026-10-19 22:32:45 DATA Received sensor data with invalid sensor node ID 99
+1167 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1168 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1169 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1170 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1171 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1172 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1173 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1174 2026-10-19 22:32:46 CONN Received malformed frame on EVP port (bad length)
+1175 2026-10-19 22:32:46 DATA Received sensor data with invalid sensor node ID 99
+1176 2026-10-19 22:32:46 DATA The sensor node with 30 detected motion
+1177 2026-10-19 22:32:47 DATA Received sensor data with invalid sensor node ID 99
+1178 2026-10-19 22:32:48 DATA Received sensor data with invalid sensor node ID 99
+1179 2026-10-19 22:32:48 CONN Received malformed frame on EVP port (bad length)
+1180 2026-10-19 22:32:49 DATA The sensor node with 30 detected motion
+1181 2026-10-19 22:32:49 DATA Received sensor data with invalid sensor node ID 99
+1182 2026-10-19 22:32:49 DATA The sensor node with 10 reports it's too hot (running avg temperature = 20.2)
+1183 2026-10-19 22:32:50 DATA Received sensor data with invalid sensor node ID 99
+1184 2026-10-19 22:32:51 DATA Received sensor data with invalid sensor node ID 99
+1185 2026-10-19 22:32:51 DATA The sensor node with 40 reports the door is closed
+1186 2026-10-19 22:32:52 DATA The sensor node with 30 detected motion
+1187 2026-10-19 22:32:52 DATA Received sensor data with invalid sensor node ID 99
+1188 2026-10-19 22:32:52 CONN Received malformed frame on SGP port (bad CRC)
+1189 2026-10-19 22:32:53 DATA The sensor node with 30 detected motion
+1190 2026-10-19 22:32:53 DATA Received sensor data with invalid sensor node ID 99
+1191 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1192 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1193 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1194 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1195 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1196 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1197 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1198 2026-10-19 22:32:53 CONN Received malformed frame on EVP port (bad length)
+1199 2026-10-19 22:32:54 DATA Received sensor data with invalid sensor node ID 99
+1200 2026-10-19 22:32:55 DATA Received sensor data with invalid sensor node ID 99
+1201 2026-10-19 22:32:55 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.5)
+1202 2026-10-19 22:32:56 DATA The sensor node with 30 detected motion
+1203 2026-10-19 22:32:56 DATA Received sensor data with invalid sensor node ID 99
+1204 2026-10-19 22:32:56 CONN Received malformed frame on EVP port (bad length)
+1205 2026-10-19 22:32:57 DATA Received sensor data with invalid sensor node ID 99
+1206 2026-10-19 22:32:57 CONN Received malformed frame on SGP port (bad length)
+1207 2026-10-19 22:32:58 DATA The sensor node with 30 detected motion
+1208 2026-10-19 22:32:58 DATA Received sensor data with invalid sensor node ID 99
+1209 2026-10-19 22:32:59 DATA The sensor node with 40 reports the door is open
+1210 2026-10-19 22:32:59 DATA Received sensor data with invalid sensor node ID 99
+1211 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1212 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1213 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1214 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1215 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1216 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1217 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1218 2026-10-19 22:33:00 CONN Received malformed frame on EVP port (bad length)
+1219 2026-10-19 22:33:00 DATA Received sensor data with invalid sensor node ID 99
+1220 2026-10-19 22:33:00 DATA The sensor node with 30 detected motion
+1221 2026-10-19 22:33:00 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.2)
+1222 2026-10-19 22:33:01 DATA Received sensor data with invalid sensor node ID 99
+1223 2026-10-19 22:33:01 CONN Received malformed frame on SGP port (bad CRC)
+1224 2026-10-19 22:33:02 DATA Received sensor data with invalid sensor node ID 99
+1225 2026-10-19 22:33:02 DATA The sensor node with 30 detected motion
+1226 2026-10-19 22:33:03 CONN Received malformed frame on EVP port (bad length)
+1227 2026-10-19 22:33:03 DATA Received sensor data with invalid sensor node ID 99
+1228 2026-10-19 22:33:03 CONN Received malformed frame on SGP port (bad length)
+1229 2026-10-19 22:33:04 DATA Received sensor data with invalid sensor node ID 99
+1230 2026-10-19 22:33:04 DATA The sensor node with 30 detected motion
+1231 2026-10-19 22:33:05 DATA The sensor node with 40 reports the door is closed
+1232 2026-10-19 22:33:05 DATA Received sensor data with invalid sensor node ID 99
+1233 2026-10-19 22:33:06 DATA Received sensor data with invalid sensor node ID 99
+1234 2026-10-19 22:33:06 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.4)
+1235 2026-10-19 22:33:06 DATA The sensor node with 30 detected motion
+1236 2026-10-19 22:33:07 DATA The sensor node with 40 reports the door is open
+1237 2026-10-19 22:33:07 DATA Received sensor data with invalid sensor node ID 99
+1238 2026-10-19 22:33:08 DATA Received sensor data with invalid sensor node ID 99
+1239 2026-10-19 22:33:09 DATA Received sensor data with invalid sensor node ID 99
+1240 2026-10-19 22:33:09 DATA The sensor node with 30 detected motion
+1241 2026-10-19 22:33:10 DATA The sensor node with 40 reports the door is closed
+1242 2026-10-19 22:33:10 DATA Received sensor data with invalid sensor node ID 99
+1243 2026-10-19 22:33:10 DATA The sensor node with 30 detected motion
+1244 2026-10-19 22:33:10 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.6)
+1245 2026-10-19 22:33:11 DATA Received sensor data with invalid sensor node ID 99
+1246 2026-10-19 22:33:11 DATA The sensor node with 40 reports the door is open
+1247 2026-10-19 22:33:12 DATA Received sensor data with invalid sensor node ID 99
+1248 2026-10-19 22:33:12 DATA The sensor node with 30 detected motion
+1249 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1250 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1251 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1252 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1253 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1254 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1255 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1256 2026-10-19 22:33:12 CONN Received malformed frame on EVP port (bad length)
+1257 2026-10-19 22:33:13 DATA Received sensor data with invalid sensor node ID 99
+1258 2026-10-19 22:33:14 DATA Received sensor data with invalid sensor node ID 99
+1259 2026-10-19 22:33:14 CONN Received malformed frame on EVP port (bad length)
+1260 2026-10-19 22:33:15 DATA The sensor node with 30 detected motion
+1261 2026-10-19 22:33:15 DATA Received sensor data with invalid sensor node ID 99
+1262 2026-10-19 22:33:16 DATA Received sensor data with invalid sensor node ID 99
+1263 2026-10-19 22:33:17 DATA The sensor node with 30 detected motion
+1264 2026-10-19 22:33:17 DATA Received sensor data with invalid sensor node ID 99
+1265 2026-10-19 22:33:17 DATA The sensor node with 40 reports the door is closed
+1266 2026-10-19 22:33:18 DATA Received sensor data with invalid sensor node ID 99
+1267 2026-10-19 22:33:19 DATA The sensor node with 40 reports the door is open
+1268 2026-10-19 22:33:19 DATA Received sensor data with invalid sensor node ID 99
+1269 2026-10-19 22:33:19 DATA The sensor node with 30 detected motion
+1270 2026-10-19 22:33:20 DATA Received sensor data with invalid sensor node ID 99
+1271 2026-10-19 22:33:20 CONN Received malformed frame on SGP port (bad length)
+1272 2026-10-19 22:33:21 DATA Received sensor data with invalid sensor node ID 99
+1273 2026-10-19 22:33:21 DATA The sensor node with 30 detected motion
+1274 2026-10-19 22:33:22 DATA The sensor node with 40 reports the door is closed
+1275 2026-10-19 22:33:22 DATA Received sensor data with invalid sensor node ID 99
+1276 2026-10-19 22:33:22 CONN Received malformed frame on SGP port (bad length)
+1277 2026-10-19 22:33:23 DATA Received sensor data with invalid sensor node ID 99
+1278 2026-10-19 22:33:23 DATA The sensor node with 40 reports the door is open
+1279 2026-10-19 22:33:23 CONN Received malformed frame on SGP port (bad CRC)
+1280 2026-10-19 22:33:24 DATA The sensor node with 30 detected motion
+1281 2026-10-19 22:33:24 DATA Received sensor data with invalid sensor node ID 99
+1282 2026-10-19 22:33:25 DATA Received sensor data with invalid sensor node ID 99
+1283 2026-10-19 22:33:25 DATA The sensor node with 30 detected motion
+1284 2026-10-19 22:33:26 DATA The sensor node with 40 reports the door is closed
+1285 2026-10-19 22:33:26 DATA Received sensor data with invalid sensor node ID 99
+1286 2026-10-19 22:33:27 DATA Received sensor data with invalid sensor node ID 99
+1287 2026-10-19 22:33:27 DATA The sensor node with 30 detected motion
+1288 2026-10-19 22:33:28 DATA Received sensor data with invalid sensor node ID 99
+1289 2026-10-19 22:33:29 DATA The sensor node with 40 reports the door is open
+1290 2026-10-19 22:33:29 DATA The sensor node with 30 detected motion
+1291 2026-10-19 22:33:29 DATA Received sensor data with invalid sensor node ID 99
+1292 2026-10-19 22:33:30 DATA Received sensor data with invalid sensor node ID 99
+1293 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1294 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1295 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1296 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1297 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1298 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1299 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1300 2026-10-19 22:33:30 CONN Received malformed frame on EVP port (bad length)
+1301 2026-10-19 22:33:31 DATA The sensor node with 30 detected motion
+1302 2026-10-19 22:33:31 DATA Received sensor data with invalid sensor node ID 99
+1303 2026-10-19 22:33:32 DATA Received sensor data with invalid sensor node ID 99
+1304 2026-10-19 22:33:33 CONN Received malformed frame on EVP port (bad length)
+1305 2026-10-19 22:33:33 DATA Received sensor data with invalid sensor node ID 99
+1306 2026-10-19 22:33:34 DATA The sensor node with 30 detected motion
+1307 2026-10-19 22:33:34 DATA Received sensor data with invalid sensor node ID 99
+1308 2026-10-19 22:33:35 DATA The sensor node with 30 detected motion
+1309 2026-10-19 22:33:35 DATA Received sensor data with invalid sensor node ID 99
+1310 2026-10-19 22:33:36 DATA The sensor node with 40 reports the door is closed
+1311 2026-10-19 22:33:36 DATA The sensor node with 30 detected motion
+1312 2026-10-19 22:33:36 DATA Received sensor data with invalid sensor node ID 99
+1313 2026-10-19 22:33:37 DATA Received sensor data with invalid sensor node ID 99
+1314 2026-10-19 22:33:38 DATA The sensor node with 40 reports the door is open
+1315 2026-10-19 22:33:38 DATA Received sensor data with invalid sensor node ID 99
+1316 2026-10-19 22:33:38 DATA The sensor node with 30 detected motion
+1317 2026-10-19 22:33:39 DATA The sensor node with 40 reports the door is closed
+1318 2026-10-19 22:33:39 DATA Received sensor data with invalid sensor node ID 99
+1319 2026-10-19 22:33:39 CONN Received malformed frame on SGP port (bad CRC)
+1320 2026-10-19 22:33:40 DATA The sensor node with 30 detected motion
+1321 2026-10-19 22:33:40 DATA Received sensor data with invalid sensor node ID 99
+1322 2026-10-19 22:33:40 DATA The sensor node with 40 reports the door is open
+1323 2026-10-19 22:33:40 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.2)
+1324 2026-10-19 22:33:41 DATA Received sensor data with invalid sensor node ID 99
+1325 2026-10-19 22:33:41 DATA The sensor node with 30 detected motion
+1326 2026-10-19 22:33:41 CONN Received malformed frame on SGP port (bad length)
+1327 2026-10-19 22:33:42 DATA Received sensor data with invalid sensor node ID 99
+1328 2026-10-19 22:33:42 DATA The sensor node with 21 reports it's too humid (running avg humidity = 70.2)
+1329 2026-10-19 22:33:42 DATA The sensor node with 40 reports the door is closed
+1330 2026-10-19 22:33:43 DATA The sensor node with 30 detected motion
+1331 2026-10-19 22:33:43 DATA Received sensor data with invalid sensor node ID 99
+1332 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1333 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1334 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1335 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1336 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1337 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1338 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1339 2026-10-19 22:33:44 CONN Received malformed frame on EVP port (bad length)
+1340 2026-10-19 22:33:44 DATA Received sensor data with invalid sensor node ID 99
+1341 2026-10-19 22:33:45 DATA The sensor node with 30 detected motion
+1342 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1343 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1344 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1345 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1346 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1347 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1348 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1349 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1350 2026-10-19 22:33:45 CONN Received malformed frame on EVP port (bad length)
+1351 2026-10-19 22:33:45 DATA Received sensor data with invalid sensor node ID 99
+1352 2026-10-19 22:33:46 DATA Received sensor data with invalid sensor node ID 99
+1353 2026-10-19 22:33:46 DATA The sensor node with 30 detected motion
+1354 2026-10-19 22:33:47 DATA Received sensor data with invalid sensor node ID 99
+1355 2026-10-19 22:33:47 CONN Received malformed frame on EVP port (bad length)
+1356 2026-10-19 22:33:47 DATA The sensor node with 40 reports the door is open
+1357 2026-10-19 22:33:48 DATA Received sensor data with invalid sensor node ID 99
+1358 2026-10-19 22:33:48 DATA The sensor node with 30 detected motion
+1359 2026-10-19 22:33:49 DATA Received sensor data with invalid sensor node ID 99
+1360 2026-10-19 22:33:50 DATA Received sensor data with invalid sensor node ID 99
+1361 2026-10-19 22:33:50 DATA The sensor node with 40 reports the door is closed
+1362 2026-10-19 22:33:51 DATA The sensor node with 30 detected motion
+1363 2026-10-19 22:33:51 DATA Received sensor data with invalid sensor node ID 99
+1364 2026-10-19 22:33:51 CONN Received malformed frame on SGP port (bad CRC)
+1365 2026-10-19 22:33:52 DATA Received sensor data with invalid sensor node ID 99
+1366 2026-10-19 22:33:52 DATA The sensor node with 30 detected motion
+1367 2026-10-19 22:33:52 CONN Received malformed frame on SGP port (bad CRC)
+1368 2026-10-19 22:33:53 DATA The sensor node with 40 reports the door is open
+1369 2026-10-19 22:33:53 DATA Received sensor data with invalid sensor node ID 99
+1370 2026-10-19 22:33:54 DATA The sensor node with 30 detected motion
+1371 2026-10-19 22:33:54 DATA Received sensor data with invalid sensor node ID 99
+1372 2026-10-19 22:33:54 CONN Received malformed frame on SGP port (bad CRC)
+1373 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1374 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1375 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1376 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1377 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1378 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1379 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1380 2026-10-19 22:33:55 CONN Received malformed frame on EVP port (bad length)
+1381 2026-10-19 22:33:55 DATA Received sensor data with invalid sensor node ID 99
+1382 2026-10-19 22:33:55 DATA The sensor node with 30 detected motion
+1383 2026-10-19 22:33:56 DATA Received sensor data with invalid sensor node ID 99
+1384 2026-10-19 22:33:56 CONN Received malformed frame on EVP port (bad length)
+1385 2026-10-19 22:33:57 DATA Received sensor data with invalid sensor node ID 99
+1386 2026-10-19 22:33:58 DATA The sensor node with 30 detected motion
+1387 2026-10-19 22:33:58 DATA Received sensor data with invalid sensor node ID 99
+1388 2026-10-19 22:33:59 DATA The sensor node with 40 reports the door is closed
+1389 2026-10-19 22:33:59 DATA Received sensor data with invalid sensor node ID 99
+1390 2026-10-19 22:33:59 DATA The sensor node with 30 detected motion
+1391 2026-10-19 22:34:00 DATA Received sensor data with invalid sensor node ID 99
+1392 2026-10-19 22:34:01 DATA The sensor node with 30 detected motion
+1393 2026-10-19 22:34:01 DATA Received sensor data with invalid sensor node ID 99
+1394 2026-10-19 22:34:02 DATA The sensor node with 40 reports the door is open
+1395 2026-10-19 22:34:02 DATA Received sensor data with invalid sensor node ID 99
+1396 2026-10-19 22:34:02 DATA The sensor node with 30 detected motion
+1397 2026-10-19 22:34:02 CONN Received malformed frame on SGP port (bad CRC)
+1398 2026-10-19 22:34:03 DATA Received sensor data with invalid sensor node ID 99
+1399 2026-10-19 22:34:03 DATA The sensor node with 40 reports the door is closed
+1400 2026-10-19 22:34:03 DATA The sensor node with 30 detected motion
+1401 2026-10-19 22:34:04 DATA Received sensor data with invalid sensor node ID 99
+1402 2026-10-19 22:34:05 DATA Received sensor data with invalid sensor node ID 99
+1403 2026-10-19 22:34:06 DATA The sensor node with 40 reports the door is open
+1404 2026-10-19 22:34:06 DATA Received sensor data with invalid sensor node ID 99
+1405 2026-10-19 22:34:06 DATA The sensor node with 30 detected motion
+1406 2026-10-19 22:34:07 DATA Received sensor data with invalid sensor node ID 99
+1407 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1408 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1409 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1410 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1411 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1412 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1413 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1414 2026-10-19 22:34:08 CONN Received malformed frame on EVP port (bad length)
+1415 2026-10-19 22:34:08 DATA Received sensor data with invalid sensor node ID 99
+1416 2026-10-19 22:34:08 DATA The sensor node with 30 detected motion
+1417 2026-10-19 22:34:09 DATA Received sensor data with invalid sensor node ID 99
+1418 2026-10-19 22:34:10 DATA Received sensor data with invalid sensor node ID 99
+1419 2026-10-19 22:34:11 CONN Received malformed frame on EVP port (bad length)
+1420 2026-10-19 22:34:11 DATA The sensor node with 30 detected motion
+1421 2026-10-19 22:34:11 DATA Received sensor data with invalid sensor node ID 99
+1422 2026-10-19 22:34:12 DATA Received sensor data with invalid sensor node ID 99
+1423 2026-10-19 22:34:13 DATA The sensor node with 30 detected motion
+1424 2026-10-19 22:34:13 DATA The sensor node with 40 reports the door is closed
+1425 2026-10-19 22:34:13 DATA Received sensor data with invalid sensor node ID 99
+1426 2026-10-19 22:34:14 DATA The sensor node with 30 detected motion
+1427 2026-10-19 22:34:14 DATA Received sensor data with invalid sensor node ID 99
+1428 2026-10-19 22:34:15 DATA Received sensor data with invalid sensor node ID 99
+1429 2026-10-19 22:34:15 DATA The sensor node with 30 detected motion
+1430 2026-10-19 22:34:16 DATA The sensor node with 40 reports the door is open
+1431 2026-10-19 22:34:16 DATA Received sensor data with invalid sensor node ID 99
+1432 2026-10-19 22:34:16 CONN Received malformed frame on SGP port (bad CRC)
+1433 2026-10-19 22:34:17 DATA The sensor node with 30 detected motion
+1434 2026-10-19 22:34:17 DATA Received sensor data with invalid sensor node ID 99
+1435 2026-10-19 22:34:17 DATA The sensor node with 40 reports the door is closed
+1436 2026-10-19 22:34:18 DATA Received sensor data with invalid sensor node ID 99
+1437 2026-10-19 22:34:19 DATA The sensor node with 30 detected motion
+1438 2026-10-19 22:34:19 DATA Received sensor data with invalid sensor node ID 99
+1439 2026-10-19 22:34:19 DATA The sensor node with 40 reports the door is open
+1440 2026-10-19 22:34:20 DATA Received sensor data with invalid sensor node ID 99
+1441 2026-10-19 22:34:20 DATA The sensor node with 30 detected motion
+1442 2026-10-19 22:34:20 CONN Received malformed frame on SGP port (bad length)
+1443 2026-10-19 22:34:21 DATA Received sensor data with invalid sensor node ID 99
+1444 2026-10-19 22:34:21 CONN Received malformed frame on SGP port (bad length)
+1445 2026-10-19 22:34:22 DATA The sensor node with 40 reports the door is closed
+1446 2026-10-19 22:34:22 DATA Received sensor data with invalid sensor node ID 99
+1447 2026-10-19 22:34:22 DATA The sensor node with 30 detected motion
+1448 2026-10-19 22:34:23 DATA Received sensor data with invalid sensor node ID 99
+1449 2026-10-19 22:34:23 CONN Received malformed frame on SGP port (bad length)
+1450 2026-10-19 22:34:24 DATA The sensor node with 30 detected motion
+1451 2026-10-19 22:34:24 DATA The sensor node with 40 reports the door is open
+1452 2026-10-19 22:34:24 DATA Received sensor data with invalid sensor node ID 99
+1453 2026-10-19 22:34:25 DATA Received sensor data with invalid sensor node ID 99
+1454 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1455 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1456 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1457 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1458 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1459 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1460 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1461 2026-10-19 22:34:26 CONN Received malformed frame on EVP port (bad length)
+1462 2026-10-19 22:34:26 DATA The sensor node with 30 detected motion
+1463 2026-10-19 22:34:26 DATA Received sensor data with invalid sensor node ID 99
+1464 2026-10-19 22:34:27 DATA The sensor node with 30 detected motion
+1465 2026-10-19 22:34:27 DATA Received sensor data with invalid sensor node ID 99
+1466 2026-10-19 22:34:28 CONN Received malformed frame on EVP port (bad length)
+1467 2026-10-19 22:34:28 DATA Received sensor data with invalid sensor node ID 99
+1468 2026-10-19 22:34:29 DATA Received sensor data with invalid sensor node ID 99
+1469 2026-10-19 22:34:29 DATA The sensor node with 30 detected motion
+1470 2026-10-19 22:34:30 DATA Received sensor data with invalid sensor node ID 99
+1471 2026-10-19 22:34:31 DATA The sensor node with 40 reports the door is closed
+1472 2026-10-19 22:34:31 DATA Received sensor data with invalid sensor node ID 99
+1473 2026-10-19 22:34:31 DATA The sensor node with 30 detected motion
+1474 2026-10-19 22:34:32 DATA Received sensor data with invalid sensor node ID 99
+1475 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1476 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1477 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1478 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1479 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1480 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1481 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1482 2026-10-19 22:34:32 CONN Received malformed frame on EVP port (bad length)
+1483 2026-10-19 22:34:33 DATA The sensor node with 30 detected motion
+1484 2026-10-19 22:34:33 DATA Received sensor data with invalid sensor node ID 99
+1485 2026-10-19 22:34:34 DATA Received sensor data with invalid sensor node ID 99
+1486 2026-10-19 22:34:34 CONN Received malformed frame on EVP port (bad length)
+1487 2026-10-19 22:34:35 DATA The sensor node with 30 detected motion
+1488 2026-10-19 22:34:35 DATA Received sensor data with invalid sensor node ID 99
+1489 2026-10-19 22:34:36 DATA The sensor node with 30 detected motion
+1490 2026-10-19 22:34:36 DATA Received sensor data with invalid sensor node ID 99
+1491 2026-10-19 22:34:37 DATA The sensor node with 40 reports the door is open
+1492 2026-10-19 22:34:37 DATA Received sensor data with invalid sensor node ID 99
+1493 2026-10-19 22:34:38 DATA The sensor node with 40 reports the door is closed
+1494 2026-10-19 22:34:38 DATA Received sensor data with invalid sensor node ID 99
+1495 2026-10-19 22:34:38 CONN Received malformed frame on SGP port (bad CRC)
+1496 2026-10-19 22:34:39 DATA The sensor node with 30 detected motion
+1497 2026-10-19 22:34:39 DATA Received sensor data with invalid sensor node ID 99
+1498 2026-10-19 22:34:40 DATA Received sensor data with invalid sensor node ID 99
+1499 2026-10-19 22:34:40 DATA The sensor node with 30 detected motion
+1500 2026-10-19 22:34:41 DATA The sensor node with 40 reports the door is open
+1501 2026-10-19 22:34:41 DATA Received sensor data with invalid sensor node ID 99
+1502 2026-10-19 22:34:42 DATA Received sensor data with invalid sensor node ID 99
+1503 2026-10-19 22:34:42 DATA The sensor node with 40 reports the door is closed
+1504 2026-10-19 22:34:43 DATA The sensor node with 30 detected motion
+1505 2026-10-19 22:34:43 DATA Received sensor data with invalid sensor node ID 99
+1506 2026-10-19 22:34:44 DATA Received sensor data with invalid sensor node ID 99
+1507 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1508 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1509 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1510 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1511 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1512 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1513 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1514 2026-10-19 22:34:44 CONN Received malformed frame on EVP port (bad length)
+1515 2026-10-19 22:34:45 DATA The sensor node with 30 detected motion
+1516 2026-10-19 22:34:45 DATA Received sensor data with invalid sensor node ID 99
+1517 2026-10-19 22:34:46 CONN Received malformed frame on EVP port (bad length)
+1518 2026-10-19 22:34:46 DATA Received sensor data with invalid sensor node ID 99
+1519 2026-10-19 22:34:47 DATA The sensor node with 30 detected motion
+1520 2026-10-19 22:34:47 DATA Received sensor data with invalid sensor node ID 99
+1521 2026-10-19 22:34:47 CONN Received malformed frame on SGP port (bad CRC)
+1522 2026-10-19 22:34:48 DATA The sensor node with 40 reports the door is open
+1523 2026-10-19 22:34:48 DATA Received sensor data with invalid sensor node ID 99
+1524 2026-10-19 22:34:49 DATA Received sensor data with invalid sensor node ID 99
+1525 2026-10-19 22:34:50 DATA The sensor node with 30 detected motion
+1526 2026-10-19 22:34:50 DATA Received sensor data with invalid sensor node ID 99
+1527 2026-10-19 22:34:50 DATA The sensor node with 40 reports the door is closed
+1528 2026-10-19 22:34:50 CONN Received malformed frame on SGP port (bad length)
+1529 2026-10-19 22:34:51 DATA The sensor node with 30 detected motion
+1530 2026-10-19 22:34:51 DATA Received sensor data with invalid sensor node ID 99
+1531 2026-10-19 22:34:52 DATA Received sensor data with invalid sensor node ID 99
+1532 2026-10-19 22:34:53 DATA The sensor node with 40 reports the door is open
+1533 2026-10-19 22:34:53 DATA Received sensor data with invalid sensor node ID 99
+1534 2026-10-19 22:34:54 DATA The sensor node with 30 detected motion
+1535 2026-10-19 22:34:54 DATA Received sensor data with invalid sensor node ID 99
+1536 2026-10-19 22:34:55 DATA Received sensor data with invalid sensor node ID 99
+1537 2026-10-19 22:34:55 DATA The sensor node with 40 reports the door is closed
+1538 2026-10-19 22:34:55 CONN Received malformed frame on SGP port (bad length)
+1539 2026-10-19 22:34:56 DATA Received sensor data with invalid sensor node ID 99
+1540 2026-10-19 22:34:57 DATA The sensor node with 30 detected motion
+1541 2026-10-19 22:34:57 DATA Received sensor data with invalid sensor node ID 99
+1542 2026-10-19 22:34:57 DATA The sensor node with 40 reports the door is open
+1543 2026-10-19 22:34:58 DATA Received sensor data with invalid sensor node ID 99
+1544 2026-10-19 22:34:59 DATA The sensor node with 30 detected motion
+1545 2026-10-19 22:34:59 DATA Received sensor data with invalid sensor node ID 99
+1546 2026-10-19 22:35:00 DATA The sensor node with 40 reports the door is closed
+1547 2026-10-19 22:35:00 DATA Received sensor data with invalid sensor node ID 99
+1548 2026-10-19 22:35:00 DATA The sensor node with 30 detected motion
+1549 2026-10-19 22:35:00 CONN Received malformed frame on SGP port (bad length)
+1550 2026-10-19 22:35:01 DATA Received sensor data with invalid sensor node ID 99
+1551 2026-10-19 22:35:01 CONN Received malformed frame on SGP port (bad CRC)
+1552 2026-10-19 22:35:02 DATA Received sensor data with invalid sensor node ID 99
+1553 2026-10-19 22:35:02 DATA The sensor node with 40 reports the door is open
+1554 2026-10-19 22:35:03 DATA The sensor node with 30 detected motion
+1555 2026-10-19 22:35:03 DATA Received sensor data with invalid sensor node ID 99
+1556 2026-10-19 22:35:03 CONN The sensor node with 50 has closed the connection
+1557 2026-10-19 22:35:03 CONN The sensor node with 30 has closed the connection
+1558 2026-10-19 22:35:03 CONN The sensor node with 21 has closed the connection
+1559 2026-10-19 22:35:03 CONN The sensor node with 10 has closed the connection
+1560 2026-10-19 22:35:03 CONN The sensor node with 40 has closed the connection
+1561 2026-10-19 22:35:03 CONN The sensor node with 99 has closed the connection
+1562 2026-10-19 22:35:06 MAIN Gateway shutting down (SIGINT/SIGTERM)
